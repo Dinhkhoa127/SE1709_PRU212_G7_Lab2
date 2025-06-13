@@ -1,0 +1,5863 @@
+fileFormatVersion: 2
+guid: 4dc397b2e0e1b4046832cc73b81a8b04
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2995837239168498127
+    second: UI_Platinum_Icons_Free_0
+  - first:
+      213: 5287174493854948441
+    second: UI_Platinum_Icons_Free_1
+  - first:
+      213: 8323484355007942177
+    second: UI_Platinum_Icons_Free_2
+  - first:
+      213: -1888373548266200233
+    second: UI_Platinum_Icons_Free_3
+  - first:
+      213: -4246959426675898058
+    second: UI_Platinum_Icons_Free_4
+  - first:
+      213: 4345494213662586646
+    second: UI_Platinum_Icons_Free_5
+  - first:
+      213: 2818517252835571005
+    second: UI_Platinum_Icons_Free_6
+  - first:
+      213: 324201813464429860
+    second: UI_Platinum_Icons_Free_7
+  - first:
+      213: -8165073244890135019
+    second: UI_Platinum_Icons_Free_8
+  - first:
+      213: -8861703025226510886
+    second: UI_Platinum_Icons_Free_9
+  - first:
+      213: 1347470343808462086
+    second: UI_Platinum_Icons_Free_10
+  - first:
+      213: 8746815084531582973
+    second: UI_Platinum_Icons_Free_11
+  - first:
+      213: 7546184679136682870
+    second: UI_Platinum_Icons_Free_12
+  - first:
+      213: -8720410515434550818
+    second: UI_Platinum_Icons_Free_13
+  - first:
+      213: 6769255915284019316
+    second: UI_Platinum_Icons_Free_14
+  - first:
+      213: 8276793052555087818
+    second: UI_Platinum_Icons_Free_15
+  - first:
+      213: 7722300866750679986
+    second: UI_Platinum_Icons_Free_16
+  - first:
+      213: 5007800555085343762
+    second: UI_Platinum_Icons_Free_17
+  - first:
+      213: 2132579502028841687
+    second: UI_Platinum_Icons_Free_18
+  - first:
+      213: 2936338235570009957
+    second: UI_Platinum_Icons_Free_19
+  - first:
+      213: -5074797362958396870
+    second: UI_Platinum_Icons_Free_20
+  - first:
+      213: 5516391290438335099
+    second: UI_Platinum_Icons_Free_21
+  - first:
+      213: -568853612118514177
+    second: UI_Platinum_Icons_Free_22
+  - first:
+      213: 5161569230936690047
+    second: UI_Platinum_Icons_Free_23
+  - first:
+      213: -8225368915145237978
+    second: UI_Platinum_Icons_Free_24
+  - first:
+      213: -5020299465968919016
+    second: UI_Platinum_Icons_Free_25
+  - first:
+      213: -2950617641565295745
+    second: UI_Platinum_Icons_Free_26
+  - first:
+      213: 3514930816980367084
+    second: UI_Platinum_Icons_Free_27
+  - first:
+      213: -5493785285454058703
+    second: UI_Platinum_Icons_Free_28
+  - first:
+      213: -6363122196197313392
+    second: UI_Platinum_Icons_Free_29
+  - first:
+      213: -8265643298967082999
+    second: UI_Platinum_Icons_Free_30
+  - first:
+      213: -7461206133352711760
+    second: UI_Platinum_Icons_Free_31
+  - first:
+      213: -7388190763817594676
+    second: UI_Platinum_Icons_Free_32
+  - first:
+      213: 7130567882511914921
+    second: UI_Platinum_Icons_Free_33
+  - first:
+      213: -4260936617807247126
+    second: UI_Platinum_Icons_Free_34
+  - first:
+      213: -477868903186934138
+    second: UI_Platinum_Icons_Free_35
+  - first:
+      213: 9075684204548526348
+    second: UI_Platinum_Icons_Free_36
+  - first:
+      213: 501152160559610303
+    second: UI_Platinum_Icons_Free_37
+  - first:
+      213: -333503852687543269
+    second: UI_Platinum_Icons_Free_38
+  - first:
+      213: -4135933861573537737
+    second: UI_Platinum_Icons_Free_39
+  - first:
+      213: -5870612618604050625
+    second: UI_Platinum_Icons_Free_40
+  - first:
+      213: -7783765087122679014
+    second: UI_Platinum_Icons_Free_41
+  - first:
+      213: 847536452464329891
+    second: UI_Platinum_Icons_Free_42
+  - first:
+      213: -956237887163322673
+    second: UI_Platinum_Icons_Free_43
+  - first:
+      213: 543386967849573882
+    second: UI_Platinum_Icons_Free_44
+  - first:
+      213: -4358274204874953809
+    second: UI_Platinum_Icons_Free_45
+  - first:
+      213: 5012518067854649426
+    second: UI_Platinum_Icons_Free_46
+  - first:
+      213: -2539638122821317269
+    second: UI_Platinum_Icons_Free_47
+  - first:
+      213: 5429119326539424676
+    second: UI_Platinum_Icons_Free_48
+  - first:
+      213: -5753911035089358319
+    second: UI_Platinum_Icons_Free_49
+  - first:
+      213: -1918679697710848512
+    second: UI_Platinum_Icons_Free_50
+  - first:
+      213: -4095960716895271377
+    second: UI_Platinum_Icons_Free_51
+  - first:
+      213: 4382531884295824290
+    second: UI_Platinum_Icons_Free_52
+  - first:
+      213: 8127824352571523203
+    second: UI_Platinum_Icons_Free_53
+  - first:
+      213: 2694320095549779899
+    second: UI_Platinum_Icons_Free_54
+  - first:
+      213: -5353950688179123595
+    second: UI_Platinum_Icons_Free_55
+  - first:
+      213: 8463165482403142492
+    second: UI_Platinum_Icons_Free_56
+  - first:
+      213: 4732220925015723314
+    second: UI_Platinum_Icons_Free_57
+  - first:
+      213: -8786554449163798338
+    second: UI_Platinum_Icons_Free_58
+  - first:
+      213: 2213633057014941734
+    second: UI_Platinum_Icons_Free_59
+  - first:
+      213: -7273957548550315937
+    second: UI_Platinum_Icons_Free_60
+  - first:
+      213: 6447773128638555076
+    second: UI_Platinum_Icons_Free_61
+  - first:
+      213: 2203358315636073690
+    second: UI_Platinum_Icons_Free_62
+  - first:
+      213: -3585925623974664294
+    second: UI_Platinum_Icons_Free_63
+  - first:
+      213: 81042443757091666
+    second: UI_Platinum_Icons_Free_64
+  - first:
+      213: 102782590740128393
+    second: UI_Platinum_Icons_Free_65
+  - first:
+      213: 4635401875160643279
+    second: UI_Platinum_Icons_Free_66
+  - first:
+      213: -1020518171178084906
+    second: UI_Platinum_Icons_Free_67
+  - first:
+      213: -5127843165258317397
+    second: UI_Platinum_Icons_Free_68
+  - first:
+      213: -5762474818151298048
+    second: UI_Platinum_Icons_Free_69
+  - first:
+      213: -7971153380563180803
+    second: UI_Platinum_Icons_Free_70
+  - first:
+      213: 4236674288785558479
+    second: UI_Platinum_Icons_Free_71
+  - first:
+      213: 5072446975114384395
+    second: UI_Platinum_Icons_Free_72
+  - first:
+      213: 7708342283065178810
+    second: UI_Platinum_Icons_Free_73
+  - first:
+      213: -5757197945232024595
+    second: UI_Platinum_Icons_Free_74
+  - first:
+      213: -8273433411180525126
+    second: UI_Platinum_Icons_Free_75
+  - first:
+      213: -9126433981342339672
+    second: UI_Platinum_Icons_Free_76
+  - first:
+      213: -1818443677348628671
+    second: UI_Platinum_Icons_Free_77
+  - first:
+      213: -8121009398319669430
+    second: UI_Platinum_Icons_Free_78
+  - first:
+      213: 2590268597538456345
+    second: UI_Platinum_Icons_Free_79
+  - first:
+      213: 8267775276638716275
+    second: UI_Platinum_Icons_Free_80
+  - first:
+      213: 4168711451438211751
+    second: UI_Platinum_Icons_Free_81
+  - first:
+      213: 465346500088577599
+    second: UI_Platinum_Icons_Free_82
+  - first:
+      213: 4121070995972939737
+    second: UI_Platinum_Icons_Free_83
+  - first:
+      213: 1414388903733494155
+    second: UI_Platinum_Icons_Free_84
+  - first:
+      213: 2802274894562531936
+    second: UI_Platinum_Icons_Free_85
+  - first:
+      213: -3008463713485160283
+    second: UI_Platinum_Icons_Free_86
+  - first:
+      213: -2852694651616914568
+    second: UI_Platinum_Icons_Free_87
+  - first:
+      213: -5505057235377973075
+    second: UI_Platinum_Icons_Free_88
+  - first:
+      213: 1934950750662445360
+    second: UI_Platinum_Icons_Free_89
+  - first:
+      213: -8216830435682366169
+    second: UI_Platinum_Icons_Free_90
+  - first:
+      213: -676740805398473611
+    second: UI_Platinum_Icons_Free_91
+  - first:
+      213: -3548903061353799539
+    second: UI_Platinum_Icons_Free_92
+  - first:
+      213: -1679230741366343221
+    second: UI_Platinum_Icons_Free_93
+  - first:
+      213: -8211439516890751646
+    second: UI_Platinum_Icons_Free_94
+  - first:
+      213: -1350960735192200379
+    second: UI_Platinum_Icons_Free_95
+  - first:
+      213: -6490494557205699579
+    second: UI_Platinum_Icons_Free_96
+  - first:
+      213: 7552869924583593023
+    second: UI_Platinum_Icons_Free_97
+  - first:
+      213: -6114692638737314226
+    second: UI_Platinum_Icons_Free_98
+  - first:
+      213: -3861794138936638997
+    second: UI_Platinum_Icons_Free_99
+  - first:
+      213: -4287688322656141234
+    second: UI_Platinum_Icons_Free_100
+  - first:
+      213: 6053317417706799596
+    second: UI_Platinum_Icons_Free_101
+  - first:
+      213: -1224173000269417671
+    second: UI_Platinum_Icons_Free_102
+  - first:
+      213: -8978468022860198687
+    second: UI_Platinum_Icons_Free_103
+  - first:
+      213: -198550050466875496
+    second: UI_Platinum_Icons_Free_104
+  - first:
+      213: -6019055028446016248
+    second: UI_Platinum_Icons_Free_105
+  - first:
+      213: -1098942478053840961
+    second: UI_Platinum_Icons_Free_106
+  - first:
+      213: -633218804125730273
+    second: UI_Platinum_Icons_Free_107
+  - first:
+      213: -4563091895983245037
+    second: UI_Platinum_Icons_Free_108
+  - first:
+      213: 2140049021765850535
+    second: UI_Platinum_Icons_Free_109
+  - first:
+      213: 520673796151119364
+    second: UI_Platinum_Icons_Free_110
+  - first:
+      213: 3812294659119612112
+    second: UI_Platinum_Icons_Free_111
+  - first:
+      213: -692375014768845651
+    second: UI_Platinum_Icons_Free_112
+  - first:
+      213: -3828078586791655986
+    second: UI_Platinum_Icons_Free_113
+  - first:
+      213: -6528714541165641419
+    second: UI_Platinum_Icons_Free_114
+  - first:
+      213: 2365438454110888507
+    second: UI_Platinum_Icons_Free_115
+  - first:
+      213: 3090745746730013754
+    second: UI_Platinum_Icons_Free_116
+  - first:
+      213: -8205118529346765180
+    second: UI_Platinum_Icons_Free_117
+  - first:
+      213: -1218397140790227746
+    second: UI_Platinum_Icons_Free_118
+  - first:
+      213: -575584059466811417
+    second: UI_Platinum_Icons_Free_119
+  - first:
+      213: 5473674112165691710
+    second: UI_Platinum_Icons_Free_120
+  - first:
+      213: 6994676489941708918
+    second: UI_Platinum_Icons_Free_121
+  - first:
+      213: 7209000263470091573
+    second: UI_Platinum_Icons_Free_122
+  - first:
+      213: -5022355824588686109
+    second: UI_Platinum_Icons_Free_123
+  - first:
+      213: 5532180983349519536
+    second: UI_Platinum_Icons_Free_124
+  - first:
+      213: 3576538762343304713
+    second: UI_Platinum_Icons_Free_125
+  - first:
+      213: -1539140202772800192
+    second: UI_Platinum_Icons_Free_126
+  - first:
+      213: 2835707949528928048
+    second: UI_Platinum_Icons_Free_127
+  - first:
+      213: -5677592113602174514
+    second: UI_Platinum_Icons_Free_128
+  - first:
+      213: -4452542046887484925
+    second: UI_Platinum_Icons_Free_129
+  - first:
+      213: 7575593525152448692
+    second: UI_Platinum_Icons_Free_130
+  - first:
+      213: -1657269046662132124
+    second: UI_Platinum_Icons_Free_131
+  - first:
+      213: 7106367591729492518
+    second: UI_Platinum_Icons_Free_132
+  - first:
+      213: 7844245982369447726
+    second: UI_Platinum_Icons_Free_133
+  - first:
+      213: 630248807479211594
+    second: UI_Platinum_Icons_Free_134
+  - first:
+      213: 4878023366282585265
+    second: UI_Platinum_Icons_Free_135
+  - first:
+      213: -933703418980249839
+    second: UI_Platinum_Icons_Free_136
+  - first:
+      213: 5927031014683470384
+    second: UI_Platinum_Icons_Free_137
+  - first:
+      213: -4654270076123022805
+    second: UI_Platinum_Icons_Free_138
+  - first:
+      213: 8251258381611655945
+    second: UI_Platinum_Icons_Free_139
+  - first:
+      213: -1061503602898775990
+    second: UI_Platinum_Icons_Free_140
+  - first:
+      213: 86843069078047596
+    second: UI_Platinum_Icons_Free_141
+  - first:
+      213: 8264155494525861266
+    second: UI_Platinum_Icons_Free_142
+  - first:
+      213: -7789359134385088767
+    second: UI_Platinum_Icons_Free_143
+  - first:
+      213: -4732045081744629378
+    second: UI_Platinum_Icons_Free_144
+  - first:
+      213: 751024678982935854
+    second: UI_Platinum_Icons_Free_145
+  - first:
+      213: 4967995274910261511
+    second: UI_Platinum_Icons_Free_146
+  - first:
+      213: 5738312246555889228
+    second: UI_Platinum_Icons_Free_147
+  - first:
+      213: 1543764779203724175
+    second: UI_Platinum_Icons_Free_148
+  - first:
+      213: 7368585657096283149
+    second: UI_Platinum_Icons_Free_149
+  - first:
+      213: 25769785251561465
+    second: UI_Platinum_Icons_Free_150
+  - first:
+      213: 1130634529700208796
+    second: UI_Platinum_Icons_Free_151
+  - first:
+      213: 7825247179556747883
+    second: UI_Platinum_Icons_Free_152
+  - first:
+      213: 2078445276799756158
+    second: UI_Platinum_Icons_Free_153
+  - first:
+      213: 9132479924461626005
+    second: UI_Platinum_Icons_Free_154
+  - first:
+      213: 7442134417916200428
+    second: UI_Platinum_Icons_Free_155
+  - first:
+      213: -7896156019711645847
+    second: UI_Platinum_Icons_Free_156
+  - first:
+      213: -2331453994560283907
+    second: UI_Platinum_Icons_Free_157
+  - first:
+      213: 5357971620833803050
+    second: UI_Platinum_Icons_Free_158
+  - first:
+      213: -6840445307516324523
+    second: UI_Platinum_Icons_Free_159
+  - first:
+      213: 8916400924847781452
+    second: UI_Platinum_Icons_Free_160
+  - first:
+      213: 5271197461606108356
+    second: UI_Platinum_Icons_Free_161
+  - first:
+      213: -3351181571130936296
+    second: UI_Platinum_Icons_Free_162
+  - first:
+      213: 852441932501735461
+    second: UI_Platinum_Icons_Free_163
+  - first:
+      213: 2222680789950149101
+    second: UI_Platinum_Icons_Free_164
+  - first:
+      213: 5979583750412671918
+    second: UI_Platinum_Icons_Free_165
+  - first:
+      213: 3349154501217248586
+    second: UI_Platinum_Icons_Free_166
+  - first:
+      213: -4040823438701927987
+    second: UI_Platinum_Icons_Free_167
+  - first:
+      213: -4849810462134918731
+    second: UI_Platinum_Icons_Free_168
+  - first:
+      213: 7345836395984290666
+    second: UI_Platinum_Icons_Free_169
+  - first:
+      213: 7986597904611699256
+    second: UI_Platinum_Icons_Free_170
+  - first:
+      213: 5453268542435929281
+    second: UI_Platinum_Icons_Free_171
+  - first:
+      213: 9141699914590522886
+    second: UI_Platinum_Icons_Free_172
+  - first:
+      213: -3063624396271703049
+    second: UI_Platinum_Icons_Free_173
+  - first:
+      213: -2245875748606374266
+    second: UI_Platinum_Icons_Free_174
+  - first:
+      213: 3929337619761887884
+    second: UI_Platinum_Icons_Free_175
+  - first:
+      213: 4446980219422021053
+    second: UI_Platinum_Icons_Free_176
+  - first:
+      213: 1078019448740191534
+    second: UI_Platinum_Icons_Free_177
+  - first:
+      213: 6498629864292873068
+    second: UI_Platinum_Icons_Free_178
+  - first:
+      213: 5129445832433905405
+    second: UI_Platinum_Icons_Free_179
+  - first:
+      213: -719624472093606406
+    second: UI_Platinum_Icons_Free_180
+  - first:
+      213: -5095670335895507506
+    second: UI_Platinum_Icons_Free_181
+  - first:
+      213: 4172122782102670014
+    second: UI_Platinum_Icons_Free_182
+  - first:
+      213: 920462845634019209
+    second: UI_Platinum_Icons_Free_183
+  - first:
+      213: -2071167325144247703
+    second: UI_Platinum_Icons_Free_184
+  - first:
+      213: -543485591878916331
+    second: UI_Platinum_Icons_Free_185
+  - first:
+      213: -2514882405575904390
+    second: UI_Platinum_Icons_Free_186
+  - first:
+      213: -5592267028035912866
+    second: UI_Platinum_Icons_Free_187
+  - first:
+      213: -5434593029681943652
+    second: UI_Platinum_Icons_Free_188
+  - first:
+      213: -5594833254392449027
+    second: UI_Platinum_Icons_Free_189
+  - first:
+      213: -4052808371531875618
+    second: UI_Platinum_Icons_Free_190
+  - first:
+      213: 5095229448887950681
+    second: UI_Platinum_Icons_Free_191
+  - first:
+      213: 4409137330541780911
+    second: UI_Platinum_Icons_Free_192
+  - first:
+      213: 2492752922061027853
+    second: UI_Platinum_Icons_Free_193
+  - first:
+      213: 1743306998664373498
+    second: UI_Platinum_Icons_Free_194
+  - first:
+      213: -7565825930083903662
+    second: UI_Platinum_Icons_Free_195
+  - first:
+      213: -937683838031805931
+    second: UI_Platinum_Icons_Free_196
+  - first:
+      213: 3849741735492023200
+    second: UI_Platinum_Icons_Free_197
+  - first:
+      213: 2228910704042066757
+    second: UI_Platinum_Icons_Free_198
+  - first:
+      213: 5688827539201281195
+    second: UI_Platinum_Icons_Free_199
+  - first:
+      213: 8176338757927177761
+    second: UI_Platinum_Icons_Free_200
+  - first:
+      213: 8095250580953461788
+    second: UI_Platinum_Icons_Free_201
+  - first:
+      213: -137316309404822706
+    second: UI_Platinum_Icons_Free_202
+  - first:
+      213: 8195169068119563577
+    second: UI_Platinum_Icons_Free_203
+  - first:
+      213: 7124166175768783448
+    second: UI_Platinum_Icons_Free_204
+  - first:
+      213: 3243420186853950426
+    second: UI_Platinum_Icons_Free_205
+  - first:
+      213: 7915407115079398880
+    second: UI_Platinum_Icons_Free_206
+  - first:
+      213: 408499398765187200
+    second: UI_Platinum_Icons_Free_207
+  - first:
+      213: 8092307639262780024
+    second: UI_Platinum_Icons_Free_208
+  - first:
+      213: -6510270167967117109
+    second: UI_Platinum_Icons_Free_209
+  - first:
+      213: -3177938195866964009
+    second: UI_Platinum_Icons_Free_210
+  - first:
+      213: -5335260719418056153
+    second: UI_Platinum_Icons_Free_211
+  - first:
+      213: -4456325943427502270
+    second: UI_Platinum_Icons_Free_212
+  - first:
+      213: 159333954128460494
+    second: UI_Platinum_Icons_Free_213
+  - first:
+      213: 7969028311358407768
+    second: UI_Platinum_Icons_Free_214
+  - first:
+      213: 2590538415728333632
+    second: UI_Platinum_Icons_Free_215
+  - first:
+      213: 478423736557299820
+    second: UI_Platinum_Icons_Free_216
+  - first:
+      213: 3420915220353101389
+    second: UI_Platinum_Icons_Free_217
+  - first:
+      213: -2239229058765953821
+    second: UI_Platinum_Icons_Free_218
+  - first:
+      213: 825563307348921739
+    second: UI_Platinum_Icons_Free_219
+  - first:
+      213: -6247379883328596762
+    second: UI_Platinum_Icons_Free_220
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_0
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 351
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 136897257e5ac66d0800000000000000
+      internalID: -2995837239168498127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_1
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 356
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cdab38031df5940800000000000000
+      internalID: 5287174493854948441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_2
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 356
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e05c1dbe4f28370800000000000000
+      internalID: 8323484355007942177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_3
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 356
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753695c43462bc5e0800000000000000
+      internalID: -1888373548266200233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_4
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 356
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6398c7d17e4cf05c0800000000000000
+      internalID: -4246959426675898058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_5
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 617bfd2c6fb4e4c30800000000000000
+      internalID: 4345494213662586646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_6
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d35f29022826d1720800000000000000
+      internalID: 2818517252835571005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_7
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425b517e4dbcf7400800000000000000
+      internalID: 324201813464429860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_8
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5160749e425dfae80800000000000000
+      internalID: -8165073244890135019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_9
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8e54cc08e40580800000000000000
+      internalID: -8861703025226510886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_10
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60da314732d23b210800000000000000
+      internalID: 1347470343808462086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_11
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7888d0afde26970800000000000000
+      internalID: 8746815084531582973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_12
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 324
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673ef69fbfe69b860800000000000000
+      internalID: 7546184679136682870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 356
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed941f3c6d0eaf680800000000000000
+      internalID: -8720410515434550818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_14
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4783730d36a31fd50800000000000000
+      internalID: 6769255915284019316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_15
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf87f0dd631dd270800000000000000
+      internalID: 8276793052555087818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_16
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 356
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb8d5b49bf1b2b60800000000000000
+      internalID: 7722300866750679986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_17
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 324
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cadd782184f7540800000000000000
+      internalID: 5007800555085343762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_18
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 292
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d265b912c1789d10800000000000000
+      internalID: 2132579502028841687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5673c8f5118ffb820800000000000000
+      internalID: 2936338235570009957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_20
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3296c19fa2b299b0800000000000000
+      internalID: -5074797362958396870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_21
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 324
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ab2acc6a82e8c40800000000000000
+      internalID: 5516391290438335099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_22
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff56a7857a60b18f0800000000000000
+      internalID: -568853612118514177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_23
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 324
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7d419d4ed391a740800000000000000
+      internalID: 5161569230936690047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_24
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a5a323d8e99dd80800000000000000
+      internalID: -8225368915145237978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_25
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 324
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ed6d00c30545ab0800000000000000
+      internalID: -5020299465968919016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_26
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bef7653ec4d07d0800000000000000
+      internalID: -2950617641565295745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_27
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6303484fa87c030800000000000000
+      internalID: 3514930816980367084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_28
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 324
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b2e34e36722c3b0800000000000000
+      internalID: -5493785285454058703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_29
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09471496316a1b7a0800000000000000
+      internalID: -6363122196197313392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_30
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 324
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 908aafc76398a4d80800000000000000
+      internalID: -8265643298967082999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_31
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9bb898d88747890800000000000000
+      internalID: -7461206133352711760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_32
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 324
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc094d505afd77990800000000000000
+      internalID: -7388190763817594676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_33
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a79ee3b5bdd4f260800000000000000
+      internalID: 7130567882511914921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_34
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae80525b8bc1ed4c0800000000000000
+      internalID: -4260936617807247126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_35
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6865650b3c44e59f0800000000000000
+      internalID: -477868903186934138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_36
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c011db1f2be43fd70800000000000000
+      internalID: 9075684204548526348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_37
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9339c1c3374f600800000000000000
+      internalID: 501152160559610303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_38
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 306
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14b55153082f5bf0800000000000000
+      internalID: -333503852687543269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_39
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7305666e0163a96c0800000000000000
+      internalID: -4135933861573537737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_40
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 306
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f370e2e5de4678ea0800000000000000
+      internalID: -5870612618604050625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_41
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 292
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b17f6b4e28af390800000000000000
+      internalID: -7783765087122679014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_42
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a4c45fb9ed03cb00800000000000000
+      internalID: 847536452464329891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_43
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce2cde35b2cab2f0800000000000000
+      internalID: -956237887163322673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_44
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd104a719f7a8700800000000000000
+      internalID: 543386967849573882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_45
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab2ea8a3bc4483c0800000000000000
+      internalID: -4358274204874953809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_46
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25824b010aa009540800000000000000
+      internalID: 5012518067854649426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_47
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d0237359461ccd0800000000000000
+      internalID: -2539638122821317269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_48
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a32795434b185b40800000000000000
+      internalID: 5429119326539424676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_49
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 292
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127c4c26600620b0800000000000000
+      internalID: -5753911035089358319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_50
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 292
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006e0340bfa7f55e0800000000000000
+      internalID: -1918679697710848512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_51
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f26c087ed693827c0800000000000000
+      internalID: -4095960716895271377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_52
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3a6447781e1dc30800000000000000
+      internalID: 4382531884295824290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_53
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808bc38f25dbc070800000000000000
+      internalID: 8127824352571523203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_54
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfe07e0ad5246520800000000000000
+      internalID: 2694320095549779899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_55
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a002e2732f2b5b0800000000000000
+      internalID: -5353950688179123595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_56
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b9cfd9a24337570800000000000000
+      internalID: 8463165482403142492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_57
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d8b32ebd93ca140800000000000000
+      internalID: 4732220925015723314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_58
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8b6f91843ef0680800000000000000
+      internalID: -8786554449163798338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_59
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 628007a798768be10800000000000000
+      internalID: 2213633057014941734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_60
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50236f0626bd0b90800000000000000
+      internalID: -7273957548550315937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_61
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c36fccaf771b7950800000000000000
+      internalID: 6447773128638555076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_62
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad42464d6b6e39e10800000000000000
+      internalID: 2203358315636073690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_63
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97e400e4ab3c3ec0800000000000000
+      internalID: -3585925623974664294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_64
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 260
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bfed75cabef1100800000000000000
+      internalID: 81042443757091666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_65
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 260
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e822c8382d6100800000000000000
+      internalID: 102782590740128393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_66
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 260
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc631203271445040800000000000000
+      internalID: 4635401875160643279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_67
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 260
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d55918512466d1f0800000000000000
+      internalID: -1020518171178084906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_68
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 228
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba10dd64fcd36d8b0800000000000000
+      internalID: -5127843165258317397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_69
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 228
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00c45fc0fa39700b0800000000000000
+      internalID: -5762474818151298048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_70
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 228
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2a06dbb36c06190800000000000000
+      internalID: -7971153380563180803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_71
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 228
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb081c91d0bbca30800000000000000
+      internalID: 4236674288785558479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_72
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 228
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0492bd16a3f46640800000000000000
+      internalID: 5072446975114384395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_73
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 228
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba3935477889fa60800000000000000
+      internalID: 7708342283065178810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_74
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 228
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb16d4c8f25a10b0800000000000000
+      internalID: -5757197945232024595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_75
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 228
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab98cb5a52cde2d80800000000000000
+      internalID: -8273433411180525126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_76
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 228
+        width: 13
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad290cd5a4685180800000000000000
+      internalID: -9126433981342339672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_77
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 228
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14774972c1793c6e0800000000000000
+      internalID: -1818443677348628671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_78
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 228
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f1c8baaf06c4f80800000000000000
+      internalID: -8121009398319669430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_79
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913012dc09b72f320800000000000000
+      internalID: 2590268597538456345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_80
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371cece3fc90db270800000000000000
+      internalID: 8267775276638716275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_81
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 239
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2e3127afc3ad930800000000000000
+      internalID: 4168711451438211751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_82
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 228
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e30432d2e357600800000000000000
+      internalID: 465346500088577599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_83
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 228
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd1298c3cf03930800000000000000
+      internalID: 4121070995972939737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_84
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b810a45d63be0a310800000000000000
+      internalID: 1414388903733494155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_85
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 228
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a15656b2ea3e620800000000000000
+      internalID: 2802274894562531936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_86
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 228
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0801e213acf36d0800000000000000
+      internalID: -3008463713485160283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_87
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 238
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87397bd14513968d0800000000000000
+      internalID: -2852694651616914568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_88
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 228
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da81a198c9b1a93b0800000000000000
+      internalID: -5505057235377973075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_89
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 196
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0394c17b4735ada10800000000000000
+      internalID: 1934950750662445360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_90
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 196
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72dc88dd044f7fd80800000000000000
+      internalID: -8216830435682366169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_91
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 196
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5745631b2dbbb96f0800000000000000
+      internalID: -676740805398473611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_92
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 196
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d80e5b5f773cfbec0800000000000000
+      internalID: -3548903061353799539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_93
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 196
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc971f4a98c22b8e0800000000000000
+      internalID: -1679230741366343221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_94
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 196
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d1f15f34b1b0e80800000000000000
+      internalID: -8211439516890751646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_95
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 196
+        width: 10
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b4e597e5c604de0800000000000000
+      internalID: -1350960735192200379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_96
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 196
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504e52d96912de5a0800000000000000
+      internalID: -6490494557205699579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_97
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 207
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f345989fd2f21d860800000000000000
+      internalID: 7552869924583593023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_98
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 196
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ecd5d217f342ba0800000000000000
+      internalID: -6114692638737314226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_99
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 196
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be10ff8f0b6286ac0800000000000000
+      internalID: -3861794138936638997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_100
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 204
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e408d7c00321f74c0800000000000000
+      internalID: -4287688322656141234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_101
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 209
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1491b9e14b10450800000000000000
+      internalID: 6053317417706799596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_102
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 196
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9333157642dd20fe0800000000000000
+      internalID: -1224173000269417671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_103
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 196
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ecc63637e2166380800000000000000
+      internalID: -8978468022860198687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_104
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 196
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89739c3f7cb9e3df0800000000000000
+      internalID: -198550050466875496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_105
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 210
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80d42f98755087ca0800000000000000
+      internalID: -6019055028446016248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_106
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 196
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb7630f73a5cfb0f0800000000000000
+      internalID: -1098942478053840961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_107
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 196
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1afcf24ada5637f0800000000000000
+      internalID: -633218804125730273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_108
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 196
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 319747ec814aca0c0800000000000000
+      internalID: -4563091895983245037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_109
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 200
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a596403f3bf2bd10800000000000000
+      internalID: 2140049021765850535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_110
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 159
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40e01771f0ec93700800000000000000
+      internalID: 520673796151119364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_111
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d081f74bcdf7e430800000000000000
+      internalID: 3812294659119612112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_112
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacd859a7903466f0800000000000000
+      internalID: -692375014768845651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_113
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 168
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5010eaeceefdac0800000000000000
+      internalID: -3828078586791655986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_114
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 168
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53105e527b85565a0800000000000000
+      internalID: -6528714541165641419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_115
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32245bcdb9b3d020800000000000000
+      internalID: 2365438454110888507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_116
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3454e491e884ea20800000000000000
+      internalID: 3090745746730013754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_117
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e7f4e8b20912e80800000000000000
+      internalID: -8205118529346765180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_118
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edcc8db7142671fe0800000000000000
+      internalID: -1218397140790227746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_119
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e77a15f85d1308f0800000000000000
+      internalID: -575584059466811417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_120
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3143efaa9566fb40800000000000000
+      internalID: 5473674112165691710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_121
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67070cd4535121160800000000000000
+      internalID: 6994676489941708918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_122
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 136
+        width: 13
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53d05d17b838b0460800000000000000
+      internalID: 7209000263470091573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_123
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 168
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecf6c3bcf10d4ab0800000000000000
+      internalID: -5022355824588686109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_124
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b428b92b4146cc40800000000000000
+      internalID: 5532180983349519536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_125
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e43e61e0b62a130800000000000000
+      internalID: 3576538762343304713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_126
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 168
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d543ae320e3aae0800000000000000
+      internalID: -1539140202772800192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_127
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 136
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f4c6a1b557a5720800000000000000
+      internalID: 2835707949528928048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_128
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec1ee29cd042531b0800000000000000
+      internalID: -5677592113602174514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_129
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302e7c359946532c0800000000000000
+      internalID: -4452542046887484925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_130
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b006758c2ae12960800000000000000
+      internalID: 7575593525152448692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_131
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 136
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46e047825923009e0800000000000000
+      internalID: -1657269046662132124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_132
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622726c6ca3ee9260800000000000000
+      internalID: 7106367591729492518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_133
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 136
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f7aed092c5cdc60800000000000000
+      internalID: 7844245982369447726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_134
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4679e183f71fb800800000000000000
+      internalID: 630248807479211594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_135
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 136
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b42451286832b340800000000000000
+      internalID: 4878023366282585265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_136
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11f4d1affa1da03f0800000000000000
+      internalID: -933703418980249839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_137
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a6eea1e4b014250800000000000000
+      internalID: 5927031014683470384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_138
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 136
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2af4ff6606b86fb0800000000000000
+      internalID: -4654270076123022805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_139
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9036de1f7cb528270800000000000000
+      internalID: 8251258381611655945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_140
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 136
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40db65e818c441f0800000000000000
+      internalID: -1061503602898775990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_141
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0a9baf47843100800000000000000
+      internalID: 86843069078047596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_142
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 136
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d7ecb03ad20b270800000000000000
+      internalID: 8264155494525861266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_143
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10758071323a6e390800000000000000
+      internalID: -7789359134385088767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_144
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 72
+        width: 13
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e712a71d116645eb0800000000000000
+      internalID: -4732045081744629378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_145
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25645867fc2c6a00800000000000000
+      internalID: 751024678982935854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_146
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70168d6816dd1f440800000000000000
+      internalID: 4967995274910261511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_147
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ecc3ad59492af40800000000000000
+      internalID: 5738312246555889228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_148
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f83823133ed8c6510800000000000000
+      internalID: 1543764779203724175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_149
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 114
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04234c5d99724660800000000000000
+      internalID: 7368585657096283149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_150
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ff7bdfab7d8b5000800000000000000
+      internalID: 25769785251561465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_151
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 114
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9062994d12d0bf00800000000000000
+      internalID: 1130634529700208796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_152
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 104
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6a7b1199dcd89c60800000000000000
+      internalID: 7825247179556747883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_153
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ecb897fe18dc10800000000000000
+      internalID: 2078445276799756158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_154
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592ebe7fa161dbe70800000000000000
+      internalID: 9132479924461626005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_155
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce58a9ea2d5c74760800000000000000
+      internalID: 7442134417916200428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_156
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 967660a8fe73b6290800000000000000
+      internalID: -7896156019711645847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_157
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa911cc1f205afd0800000000000000
+      internalID: -2331453994560283907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_158
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 104
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3c682dc65b5a40800000000000000
+      internalID: 5357971620833803050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_159
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 555700c2c3bd111a0800000000000000
+      internalID: -6840445307516324523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_160
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 104
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c463488666b6dbb70800000000000000
+      internalID: 8916400924847781452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_161
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 104
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc09ffc92e072940800000000000000
+      internalID: 5271197461606108356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_162
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 814b7eacd163e71d0800000000000000
+      internalID: -3351181571130936296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_163
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 72
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528d962db6b74db00800000000000000
+      internalID: 852441932501735461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_164
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 72
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de13016f66c88de10800000000000000
+      internalID: 2222680789950149101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_165
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9b046dbfbbf250800000000000000
+      internalID: 5979583750412671918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_166
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 72
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4564f636469a7e20800000000000000
+      internalID: 3349154501217248586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_167
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc16910ed7c1ce7c0800000000000000
+      internalID: -4040823438701927987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_168
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 72
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1a970841302bcb0800000000000000
+      internalID: -4849810462134918731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_169
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6387c04847a1f560800000000000000
+      internalID: 7345836395984290666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_170
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 72
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83a624cba7816de60800000000000000
+      internalID: 7986597904611699256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_171
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cca4b0c8d6edab40800000000000000
+      internalID: 5453268542435929281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_172
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 72
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e036433a7ddde70800000000000000
+      internalID: 9141699914590522886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_173
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb2107e7d1db75d0800000000000000
+      internalID: -3063624396271703049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_174
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 72
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e07a2e7eb05d0e0800000000000000
+      internalID: -2245875748606374266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_175
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 72
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a7c742fbfc78630800000000000000
+      internalID: 3929337619761887884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_176
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 72
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db596ddc2f8d6bd30800000000000000
+      internalID: 4446980219422021053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_177
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 72
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d1f1f1af4e5fe00800000000000000
+      internalID: 1078019448740191534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_178
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c63fbeb2e65cf2a50800000000000000
+      internalID: 6498629864292873068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_179
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 40
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfea4d0cec37f2740800000000000000
+      internalID: 5129445832433905405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_180
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afdbe29fa516306f0800000000000000
+      internalID: -719624472093606406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_181
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 40
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecde378d3da8849b0800000000000000
+      internalID: -5095670335895507506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_182
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 40
+        width: 11
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba4b82c09b56e930800000000000000
+      internalID: 4172122782102670014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_183
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 40
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ff5fec41426cc00800000000000000
+      internalID: 920462845634019209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_184
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 50
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96291629a4cb143e0800000000000000
+      internalID: -2071167325144247703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_185
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 37
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 517a383dbb62578f0800000000000000
+      internalID: -543485591878916331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_186
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 37
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73b4cbc6c7591dd0800000000000000
+      internalID: -2514882405575904390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_187
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b3ac064c64462b0800000000000000
+      internalID: -5592267028035912866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_188
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b6ef6ee627494b0800000000000000
+      internalID: -5434593029681943652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_189
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7356e3cc82b52b0800000000000000
+      internalID: -5594833254392449027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_190
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edafc10424881c7c0800000000000000
+      internalID: -4052808371531875618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_191
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d53162034e5b640800000000000000
+      internalID: 5095229448887950681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_192
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 47
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf5bd0aa07603d30800000000000000
+      internalID: 4409137330541780911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_193
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ab3405399089220800000000000000
+      internalID: 2492752922061027853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_194
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 46
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4a7d59a78713810800000000000000
+      internalID: 1743306998664373498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_195
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 41
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 257d8ece669c00790800000000000000
+      internalID: -7565825930083903662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_196
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5124d72748dacf2f0800000000000000
+      internalID: -937683838031805931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_197
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 37
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a37ffc26b70d6530800000000000000
+      internalID: 3849741735492023200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_198
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5434e7ed97eaeee10800000000000000
+      internalID: 2228910704042066757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_199
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 40
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac4d869186c2fe40800000000000000
+      internalID: 5688827539201281195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_200
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 8
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e028db7c0387170800000000000000
+      internalID: 8176338757927177761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_201
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 8
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c14718d438b185070800000000000000
+      internalID: 8095250580953461788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_202
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 8
+        width: 8
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e43de0c4b87281ef0800000000000000
+      internalID: -137316309404822706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_203
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 8
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d198bf8d61bb170800000000000000
+      internalID: 8195169068119563577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_204
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 8
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a2d83346f1ed260800000000000000
+      internalID: 7124166175768783448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_205
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3c2ceb971f20d20800000000000000
+      internalID: 3243420186853950426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_206
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 8
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e538e265dc29dd60800000000000000
+      internalID: 7915407115079398880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_207
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 12
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0801c52f9084ba500800000000000000
+      internalID: 408499398765187200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_208
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 15
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a107b4ce6ad4070800000000000000
+      internalID: 8092307639262780024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_209
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 7
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc05f7e66cfd6a5a0800000000000000
+      internalID: -6510270167967117109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_210
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 9
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df243d5c02b5e3d0800000000000000
+      internalID: -3177938195866964009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_211
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 12
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722edf2a4a855f5b0800000000000000
+      internalID: -5335260719418056153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_212
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 17
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f65a24a23f722c0800000000000000
+      internalID: -4456325943427502270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_213
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 13
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eca3c781361163200800000000000000
+      internalID: 159333954128460494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_214
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 17
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8548c87070da79e60800000000000000
+      internalID: 7969028311358407768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_215
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 18
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0439d7eb6f073f320800000000000000
+      internalID: 2590538415728333632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_216
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 8
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c68ec958ad3b3a600800000000000000
+      internalID: 478423736557299820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_217
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 16
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4eafd3a448897f20800000000000000
+      internalID: 3420915220353101389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_218
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 10
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4e585f809ace0e0800000000000000
+      internalID: -2239229058765953821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_219
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 6
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8d012a347df47b00800000000000000
+      internalID: 825563307348921739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Platinum_Icons_Free_220
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 8
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e4174d9819dc49a0800000000000000
+      internalID: -6247379883328596762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_Platinum_Icons_Free_0: -2995837239168498127
+      UI_Platinum_Icons_Free_1: 5287174493854948441
+      UI_Platinum_Icons_Free_10: 1347470343808462086
+      UI_Platinum_Icons_Free_100: -4287688322656141234
+      UI_Platinum_Icons_Free_101: 6053317417706799596
+      UI_Platinum_Icons_Free_102: -1224173000269417671
+      UI_Platinum_Icons_Free_103: -8978468022860198687
+      UI_Platinum_Icons_Free_104: -198550050466875496
+      UI_Platinum_Icons_Free_105: -6019055028446016248
+      UI_Platinum_Icons_Free_106: -1098942478053840961
+      UI_Platinum_Icons_Free_107: -633218804125730273
+      UI_Platinum_Icons_Free_108: -4563091895983245037
+      UI_Platinum_Icons_Free_109: 2140049021765850535
+      UI_Platinum_Icons_Free_11: 8746815084531582973
+      UI_Platinum_Icons_Free_110: 520673796151119364
+      UI_Platinum_Icons_Free_111: 3812294659119612112
+      UI_Platinum_Icons_Free_112: -692375014768845651
+      UI_Platinum_Icons_Free_113: -3828078586791655986
+      UI_Platinum_Icons_Free_114: -6528714541165641419
+      UI_Platinum_Icons_Free_115: 2365438454110888507
+      UI_Platinum_Icons_Free_116: 3090745746730013754
+      UI_Platinum_Icons_Free_117: -8205118529346765180
+      UI_Platinum_Icons_Free_118: -1218397140790227746
+      UI_Platinum_Icons_Free_119: -575584059466811417
+      UI_Platinum_Icons_Free_12: 7546184679136682870
+      UI_Platinum_Icons_Free_120: 5473674112165691710
+      UI_Platinum_Icons_Free_121: 6994676489941708918
+      UI_Platinum_Icons_Free_122: 7209000263470091573
+      UI_Platinum_Icons_Free_123: -5022355824588686109
+      UI_Platinum_Icons_Free_124: 5532180983349519536
+      UI_Platinum_Icons_Free_125: 3576538762343304713
+      UI_Platinum_Icons_Free_126: -1539140202772800192
+      UI_Platinum_Icons_Free_127: 2835707949528928048
+      UI_Platinum_Icons_Free_128: -5677592113602174514
+      UI_Platinum_Icons_Free_129: -4452542046887484925
+      UI_Platinum_Icons_Free_13: -8720410515434550818
+      UI_Platinum_Icons_Free_130: 7575593525152448692
+      UI_Platinum_Icons_Free_131: -1657269046662132124
+      UI_Platinum_Icons_Free_132: 7106367591729492518
+      UI_Platinum_Icons_Free_133: 7844245982369447726
+      UI_Platinum_Icons_Free_134: 630248807479211594
+      UI_Platinum_Icons_Free_135: 4878023366282585265
+      UI_Platinum_Icons_Free_136: -933703418980249839
+      UI_Platinum_Icons_Free_137: 5927031014683470384
+      UI_Platinum_Icons_Free_138: -4654270076123022805
+      UI_Platinum_Icons_Free_139: 8251258381611655945
+      UI_Platinum_Icons_Free_14: 6769255915284019316
+      UI_Platinum_Icons_Free_140: -1061503602898775990
+      UI_Platinum_Icons_Free_141: 86843069078047596
+      UI_Platinum_Icons_Free_142: 8264155494525861266
+      UI_Platinum_Icons_Free_143: -7789359134385088767
+      UI_Platinum_Icons_Free_144: -4732045081744629378
+      UI_Platinum_Icons_Free_145: 751024678982935854
+      UI_Platinum_Icons_Free_146: 4967995274910261511
+      UI_Platinum_Icons_Free_147: 5738312246555889228
+      UI_Platinum_Icons_Free_148: 1543764779203724175
+      UI_Platinum_Icons_Free_149: 7368585657096283149
+      UI_Platinum_Icons_Free_15: 8276793052555087818
+      UI_Platinum_Icons_Free_150: 25769785251561465
+      UI_Platinum_Icons_Free_151: 1130634529700208796
+      UI_Platinum_Icons_Free_152: 7825247179556747883
+      UI_Platinum_Icons_Free_153: 2078445276799756158
+      UI_Platinum_Icons_Free_154: 9132479924461626005
+      UI_Platinum_Icons_Free_155: 7442134417916200428
+      UI_Platinum_Icons_Free_156: -7896156019711645847
+      UI_Platinum_Icons_Free_157: -2331453994560283907
+      UI_Platinum_Icons_Free_158: 5357971620833803050
+      UI_Platinum_Icons_Free_159: -6840445307516324523
+      UI_Platinum_Icons_Free_16: 7722300866750679986
+      UI_Platinum_Icons_Free_160: 8916400924847781452
+      UI_Platinum_Icons_Free_161: 5271197461606108356
+      UI_Platinum_Icons_Free_162: -3351181571130936296
+      UI_Platinum_Icons_Free_163: 852441932501735461
+      UI_Platinum_Icons_Free_164: 2222680789950149101
+      UI_Platinum_Icons_Free_165: 5979583750412671918
+      UI_Platinum_Icons_Free_166: 3349154501217248586
+      UI_Platinum_Icons_Free_167: -4040823438701927987
+      UI_Platinum_Icons_Free_168: -4849810462134918731
+      UI_Platinum_Icons_Free_169: 7345836395984290666
+      UI_Platinum_Icons_Free_17: 5007800555085343762
+      UI_Platinum_Icons_Free_170: 7986597904611699256
+      UI_Platinum_Icons_Free_171: 5453268542435929281
+      UI_Platinum_Icons_Free_172: 9141699914590522886
+      UI_Platinum_Icons_Free_173: -3063624396271703049
+      UI_Platinum_Icons_Free_174: -2245875748606374266
+      UI_Platinum_Icons_Free_175: 3929337619761887884
+      UI_Platinum_Icons_Free_176: 4446980219422021053
+      UI_Platinum_Icons_Free_177: 1078019448740191534
+      UI_Platinum_Icons_Free_178: 6498629864292873068
+      UI_Platinum_Icons_Free_179: 5129445832433905405
+      UI_Platinum_Icons_Free_18: 2132579502028841687
+      UI_Platinum_Icons_Free_180: -719624472093606406
+      UI_Platinum_Icons_Free_181: -5095670335895507506
+      UI_Platinum_Icons_Free_182: 4172122782102670014
+      UI_Platinum_Icons_Free_183: 920462845634019209
+      UI_Platinum_Icons_Free_184: -2071167325144247703
+      UI_Platinum_Icons_Free_185: -543485591878916331
+      UI_Platinum_Icons_Free_186: -2514882405575904390
+      UI_Platinum_Icons_Free_187: -5592267028035912866
+      UI_Platinum_Icons_Free_188: -5434593029681943652
+      UI_Platinum_Icons_Free_189: -5594833254392449027
+      UI_Platinum_Icons_Free_19: 2936338235570009957
+      UI_Platinum_Icons_Free_190: -4052808371531875618
+      UI_Platinum_Icons_Free_191: 5095229448887950681
+      UI_Platinum_Icons_Free_192: 4409137330541780911
+      UI_Platinum_Icons_Free_193: 2492752922061027853
+      UI_Platinum_Icons_Free_194: 1743306998664373498
+      UI_Platinum_Icons_Free_195: -7565825930083903662
+      UI_Platinum_Icons_Free_196: -937683838031805931
+      UI_Platinum_Icons_Free_197: 3849741735492023200
+      UI_Platinum_Icons_Free_198: 2228910704042066757
+      UI_Platinum_Icons_Free_199: 5688827539201281195
+      UI_Platinum_Icons_Free_2: 8323484355007942177
+      UI_Platinum_Icons_Free_20: -5074797362958396870
+      UI_Platinum_Icons_Free_200: 8176338757927177761
+      UI_Platinum_Icons_Free_201: 8095250580953461788
+      UI_Platinum_Icons_Free_202: -137316309404822706
+      UI_Platinum_Icons_Free_203: 8195169068119563577
+      UI_Platinum_Icons_Free_204: 7124166175768783448
+      UI_Platinum_Icons_Free_205: 3243420186853950426
+      UI_Platinum_Icons_Free_206: 7915407115079398880
+      UI_Platinum_Icons_Free_207: 408499398765187200
+      UI_Platinum_Icons_Free_208: 8092307639262780024
+      UI_Platinum_Icons_Free_209: -6510270167967117109
+      UI_Platinum_Icons_Free_21: 5516391290438335099
+      UI_Platinum_Icons_Free_210: -3177938195866964009
+      UI_Platinum_Icons_Free_211: -5335260719418056153
+      UI_Platinum_Icons_Free_212: -4456325943427502270
+      UI_Platinum_Icons_Free_213: 159333954128460494
+      UI_Platinum_Icons_Free_214: 7969028311358407768
+      UI_Platinum_Icons_Free_215: 2590538415728333632
+      UI_Platinum_Icons_Free_216: 478423736557299820
+      UI_Platinum_Icons_Free_217: 3420915220353101389
+      UI_Platinum_Icons_Free_218: -2239229058765953821
+      UI_Platinum_Icons_Free_219: 825563307348921739
+      UI_Platinum_Icons_Free_22: -568853612118514177
+      UI_Platinum_Icons_Free_220: -6247379883328596762
+      UI_Platinum_Icons_Free_23: 5161569230936690047
+      UI_Platinum_Icons_Free_24: -8225368915145237978
+      UI_Platinum_Icons_Free_25: -5020299465968919016
+      UI_Platinum_Icons_Free_26: -2950617641565295745
+      UI_Platinum_Icons_Free_27: 3514930816980367084
+      UI_Platinum_Icons_Free_28: -5493785285454058703
+      UI_Platinum_Icons_Free_29: -6363122196197313392
+      UI_Platinum_Icons_Free_3: -1888373548266200233
+      UI_Platinum_Icons_Free_30: -8265643298967082999
+      UI_Platinum_Icons_Free_31: -7461206133352711760
+      UI_Platinum_Icons_Free_32: -7388190763817594676
+      UI_Platinum_Icons_Free_33: 7130567882511914921
+      UI_Platinum_Icons_Free_34: -4260936617807247126
+      UI_Platinum_Icons_Free_35: -477868903186934138
+      UI_Platinum_Icons_Free_36: 9075684204548526348
+      UI_Platinum_Icons_Free_37: 501152160559610303
+      UI_Platinum_Icons_Free_38: -333503852687543269
+      UI_Platinum_Icons_Free_39: -4135933861573537737
+      UI_Platinum_Icons_Free_4: -4246959426675898058
+      UI_Platinum_Icons_Free_40: -5870612618604050625
+      UI_Platinum_Icons_Free_41: -7783765087122679014
+      UI_Platinum_Icons_Free_42: 847536452464329891
+      UI_Platinum_Icons_Free_43: -956237887163322673
+      UI_Platinum_Icons_Free_44: 543386967849573882
+      UI_Platinum_Icons_Free_45: -4358274204874953809
+      UI_Platinum_Icons_Free_46: 5012518067854649426
+      UI_Platinum_Icons_Free_47: -2539638122821317269
+      UI_Platinum_Icons_Free_48: 5429119326539424676
+      UI_Platinum_Icons_Free_49: -5753911035089358319
+      UI_Platinum_Icons_Free_5: 4345494213662586646
+      UI_Platinum_Icons_Free_50: -1918679697710848512
+      UI_Platinum_Icons_Free_51: -4095960716895271377
+      UI_Platinum_Icons_Free_52: 4382531884295824290
+      UI_Platinum_Icons_Free_53: 8127824352571523203
+      UI_Platinum_Icons_Free_54: 2694320095549779899
+      UI_Platinum_Icons_Free_55: -5353950688179123595
+      UI_Platinum_Icons_Free_56: 8463165482403142492
+      UI_Platinum_Icons_Free_57: 4732220925015723314
+      UI_Platinum_Icons_Free_58: -8786554449163798338
+      UI_Platinum_Icons_Free_59: 2213633057014941734
+      UI_Platinum_Icons_Free_6: 2818517252835571005
+      UI_Platinum_Icons_Free_60: -7273957548550315937
+      UI_Platinum_Icons_Free_61: 6447773128638555076
+      UI_Platinum_Icons_Free_62: 2203358315636073690
+      UI_Platinum_Icons_Free_63: -3585925623974664294
+      UI_Platinum_Icons_Free_64: 81042443757091666
+      UI_Platinum_Icons_Free_65: 102782590740128393
+      UI_Platinum_Icons_Free_66: 4635401875160643279
+      UI_Platinum_Icons_Free_67: -1020518171178084906
+      UI_Platinum_Icons_Free_68: -5127843165258317397
+      UI_Platinum_Icons_Free_69: -5762474818151298048
+      UI_Platinum_Icons_Free_7: 324201813464429860
+      UI_Platinum_Icons_Free_70: -7971153380563180803
+      UI_Platinum_Icons_Free_71: 4236674288785558479
+      UI_Platinum_Icons_Free_72: 5072446975114384395
+      UI_Platinum_Icons_Free_73: 7708342283065178810
+      UI_Platinum_Icons_Free_74: -5757197945232024595
+      UI_Platinum_Icons_Free_75: -8273433411180525126
+      UI_Platinum_Icons_Free_76: -9126433981342339672
+      UI_Platinum_Icons_Free_77: -1818443677348628671
+      UI_Platinum_Icons_Free_78: -8121009398319669430
+      UI_Platinum_Icons_Free_79: 2590268597538456345
+      UI_Platinum_Icons_Free_8: -8165073244890135019
+      UI_Platinum_Icons_Free_80: 8267775276638716275
+      UI_Platinum_Icons_Free_81: 4168711451438211751
+      UI_Platinum_Icons_Free_82: 465346500088577599
+      UI_Platinum_Icons_Free_83: 4121070995972939737
+      UI_Platinum_Icons_Free_84: 1414388903733494155
+      UI_Platinum_Icons_Free_85: 2802274894562531936
+      UI_Platinum_Icons_Free_86: -3008463713485160283
+      UI_Platinum_Icons_Free_87: -2852694651616914568
+      UI_Platinum_Icons_Free_88: -5505057235377973075
+      UI_Platinum_Icons_Free_89: 1934950750662445360
+      UI_Platinum_Icons_Free_9: -8861703025226510886
+      UI_Platinum_Icons_Free_90: -8216830435682366169
+      UI_Platinum_Icons_Free_91: -676740805398473611
+      UI_Platinum_Icons_Free_92: -3548903061353799539
+      UI_Platinum_Icons_Free_93: -1679230741366343221
+      UI_Platinum_Icons_Free_94: -8211439516890751646
+      UI_Platinum_Icons_Free_95: -1350960735192200379
+      UI_Platinum_Icons_Free_96: -6490494557205699579
+      UI_Platinum_Icons_Free_97: 7552869924583593023
+      UI_Platinum_Icons_Free_98: -6114692638737314226
+      UI_Platinum_Icons_Free_99: -3861794138936638997
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
