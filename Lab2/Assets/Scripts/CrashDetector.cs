@@ -8,23 +8,23 @@ public class CrashDetector : MonoBehaviour
     [SerializeField] ParticleSystem finishEffect;
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.CompareTag("Ground"))
-    {
-        finishEffect.Play();
-
-        // Tìm Rigidbody2D của player và khóa lại
-        Rigidbody2D rb = GetComponent<Rigidbody2D>();
-        if (rb != null)
+        if (collision.CompareTag("Ground") || collision.CompareTag("Obstacles"))
         {
-            rb.linearVelocity = Vector2.zero;
-            rb.bodyType = RigidbodyType2D.Static;
+            finishEffect.Play();
+
+            // Tìm Rigidbody2D của player và khóa lại
+            Rigidbody2D rb = GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                rb.linearVelocity = Vector2.zero;
+                rb.bodyType = RigidbodyType2D.Static;
+            }
+
+            // Nếu có script điều khiển, hãy vô hiệu hóa nó
+            // GetComponent<PlayerController>().enabled = false;
+
+            Invoke("ReloadScene", reload);
         }
-
-        // Nếu có script điều khiển, hãy vô hiệu hóa nó
-        // GetComponent<PlayerController>().enabled = false;
-
-        Invoke("ReloadScene", reload);
-    }
     }
 
     private void ReloadScene()

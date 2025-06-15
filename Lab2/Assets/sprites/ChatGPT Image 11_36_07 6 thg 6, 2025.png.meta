@@ -165,9 +165,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 106
-        width: 251
-        height: 739
+        y: 235
+        width: 219
+        height: 435
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -187,9 +187,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 302
-        y: 106
+        y: 283
         width: 251
-        height: 739
+        height: 440
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -208,10 +208,10 @@ TextureImporter:
       name: ChatGPT Image 11_36_07 6 thg 6, 2025_2
       rect:
         serializedVersion: 2
-        x: 604
-        y: 106
-        width: 251
-        height: 739
+        x: 597
+        y: 265
+        width: 258
+        height: 460
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -231,9 +231,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 906
-        y: 106
-        width: 251
-        height: 739
+        y: 266
+        width: 290
+        height: 400
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -252,10 +252,10 @@ TextureImporter:
       name: ChatGPT Image 11_36_07 6 thg 6, 2025_4
       rect:
         serializedVersion: 2
-        x: 1208
-        y: 106
-        width: 251
-        height: 739
+        x: 1215
+        y: 231
+        width: 253
+        height: 436
       alignment: 1
       pivot: {x: 0, y: 1}
       border: {x: 0, y: 0, z: 0, w: 0}
