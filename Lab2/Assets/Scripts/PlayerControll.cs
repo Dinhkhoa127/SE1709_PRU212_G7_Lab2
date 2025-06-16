@@ -18,7 +18,6 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
-
         // Tạo groundCheck object nếu chưa có
         if (groundCheck == null)
         {
