@@ -1,10 +1,22 @@
 fileFormatVersion: 2
-guid: 276d8ce739086f244951d4e0900057a7
+guid: 8871ffb7f4abde84e973b8fe9ca5fdb1
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -806086559107365130
-    second: ChatGPT_Image_Jun_13__2025__08_55_57_PM-removebg-preview_0
+      213: 1658221345906301628
+    second: Sound_0
+  - first:
+      213: -2031183613288344915
+    second: Sound_1
+  - first:
+      213: 7303659996239855815
+    second: Sound_2
+  - first:
+      213: 8039842088723661244
+    second: Sound_3
+  - first:
+      213: 2185526751559165162
+    second: Sound_4
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -46,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -96,30 +108,17 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
-  - serializedVersion: 4
-    buildTarget: WebGL
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 1
-    compressionQuality: 50
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    overridden: 0
-    ignorePlatformSupport: 0
-    androidETC2FallbackOverride: 0
-    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: ChatGPT_Image_Jun_13__2025__08_55_57_PM-removebg-preview_0
+      name: Sound_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 22
-        width: 489
-        height: 461
+        x: 0
+        y: 0
+        width: 48
+        height: 46
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -128,8 +127,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6f6403a9b8430d4f0800000000000000
-      internalID: -806086559107365130
+      spriteID: cba17b9478f230710800000000000000
+      internalID: 1658221345906301628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_1
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 0
+        width: 51
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da29a50f349cfc3e0800000000000000
+      internalID: -2031183613288344915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_2
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c08b14f110db5560800000000000000
+      internalID: 7303659996239855815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_3
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 0
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1cb9468c1439f60800000000000000
+      internalID: 8039842088723661244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sound_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae42cc9400d845e10800000000000000
+      internalID: 2185526751559165162
       vertices: []
       indices: 
       edges: []
@@ -138,7 +225,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
@@ -148,7 +235,11 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      ChatGPT_Image_Jun_13__2025__08_55_57_PM-removebg-preview_0: -806086559107365130
+      Sound_0: 1658221345906301628
+      Sound_1: -2031183613288344915
+      Sound_2: 7303659996239855815
+      Sound_3: 8039842088723661244
+      Sound_4: 2185526751559165162
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
