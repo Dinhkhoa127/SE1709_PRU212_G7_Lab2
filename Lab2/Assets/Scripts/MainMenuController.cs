@@ -32,14 +32,26 @@ public class MainMenuController : MonoBehaviour
     public void PlayLevel1()
     {
         SceneManager.LoadScene("GameScreen1");
+        if (Time.timeScale == 0f)
+        {
+            Time.timeScale = 1f;
+        }
     }
     public void PlayLevel3()
     {
         SceneManager.LoadScene("GameScreen3");
+        if (Time.timeScale == 0f)
+        {
+            Time.timeScale = 1f;
+        }
     }
     public void PlayLevel2()
     {
         SceneManager.LoadScene("GameScreen2");
+        if (Time.timeScale == 0f)
+        {
+            Time.timeScale = 1f;
+        }
     }
 
 }
