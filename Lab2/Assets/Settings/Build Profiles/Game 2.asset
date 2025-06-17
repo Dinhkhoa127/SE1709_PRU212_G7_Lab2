@@ -10,20 +10,22 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 15003, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: Game
+  m_Name: Game 2
   m_EditorClassIdentifier: 
   m_AssetVersion: 1
   m_BuildTarget: 19
   m_Subtarget: 2
   m_PlatformId: 4e3c793746204150860bf175a9a41a05
   m_PlatformBuildProfile:
-    rid: 9056913858880340187
+    rid: 9056914048143327302
   m_OverrideGlobalSceneList: 1
   m_Scenes:
   - m_enabled: 1
     m_path: Assets/Scenes/MainMenuScreen.unity
   - m_enabled: 1
-    m_path: Assets/Scenes/EndGameScreen.unity
+    m_path: Assets/Scenes/LeaderBoardScreen.unity
+  - m_enabled: 1
+    m_path: Assets/Scenes/InstructionScreen.unity
   - m_enabled: 1
     m_path: Assets/Scenes/GameScreen3.unity
   - m_enabled: 1
@@ -31,16 +33,14 @@ MonoBehaviour:
   - m_enabled: 1
     m_path: Assets/Scenes/GameScreen2.unity
   - m_enabled: 1
-    m_path: Assets/Scenes/InstructionScreen.unity
-  - m_enabled: 1
-    m_path: Assets/Scenes/LeaderBoardScreen.unity
+    m_path: Assets/Scenes/EndGameScreen.unity
   m_ScriptingDefines: []
   m_PlayerSettingsYaml:
     m_Settings: []
   references:
     version: 2
     RefIds:
-    - rid: 9056913858880340187
+    - rid: 9056914048143327302
       type: {class: WindowsPlatformSettings, ns: UnityEditor.WindowsStandalone, asm: UnityEditor.WindowsStandalone.Extensions}
       data:
         m_Development: 0
