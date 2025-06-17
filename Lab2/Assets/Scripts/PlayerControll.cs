@@ -5,6 +5,7 @@ public class PlayerController : MonoBehaviour
 {
     [SerializeField] private float torqueAmount = 1f;
     private Rigidbody2D rb;
+    [SerializeField] private GameObject boardEffect;
 
     // Thêm một biến kiểm tra nếu nhân vật đang chạm đất
     private bool isGrounded;
@@ -33,6 +34,11 @@ public class PlayerController : MonoBehaviour
     {
         // Kiểm tra nếu nhân vật đang ở trên mặt đất
         isGrounded = CheckIfGrounded();
+
+        if (boardEffect != null)
+        {
+            boardEffect.SetActive(isGrounded);
+        }
 
         // Chỉ thực hiện roll khi không phải trên mặt đất
         if (!isGrounded)
