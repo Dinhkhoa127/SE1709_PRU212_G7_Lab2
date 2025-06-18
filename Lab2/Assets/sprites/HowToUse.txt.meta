@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 90465b87f310e74429d2c12d1fea68ba
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 5337
+  packageName: Frost Effect
+  packageVersion: 1.1
+  assetPath: Assets/Frost/HowToUse.txt
+  uploadId: 27471
