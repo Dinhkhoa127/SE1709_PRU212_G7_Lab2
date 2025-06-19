@@ -53,5 +53,12 @@ public class MainMenuController : MonoBehaviour
             Time.timeScale = 1f;
         }
     }
+    public void LoadRandomMap()
+    {
+        // Tên các scene map của bạn
+        string[] mapNames = { "GameScreen1", "GameScreen2", "GameScreen3" };
+        int randomIndex = Random.Range(0, mapNames.Length); // Random từ 0 đến 2
+        SceneManager.LoadScene(mapNames[randomIndex]);
+    }
 
 }
