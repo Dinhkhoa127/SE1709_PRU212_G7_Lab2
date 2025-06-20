@@ -9,7 +9,7 @@ public class GameManager : MonoBehaviour
     [Header("UI References")]
     [SerializeField] private TextMeshProUGUI scoreText;
     [SerializeField] private TextMeshProUGUI distanceText;
-    
+
     // Private variables
     private Vector3 startPosition;
     private float currentDistance = 0f;
@@ -96,7 +96,6 @@ public class GameManager : MonoBehaviour
             distanceText.text = "Distance: " + currentDistance.ToString("F1") + "m";
         }
     }
-    
     // Public methods để các script khác có thể gọi
     public float GetCurrentScore()
     {

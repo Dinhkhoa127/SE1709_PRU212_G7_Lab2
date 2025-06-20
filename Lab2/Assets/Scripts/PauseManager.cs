@@ -1,10 +1,11 @@
 ﻿using UnityEngine;
+using TMPro;
 
 public class PauseManager : MonoBehaviour
 {
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
     public GameObject pauseMenuUI;
-    //public TMP_Text pauseScoreText; // Kéo Text này vào Inspector
+    public TextMeshProUGUI pauseScoreText;
+    public TextMeshProUGUI pauseDistanceText;
 
     private bool isPaused = false;
 
@@ -32,11 +33,19 @@ public class PauseManager : MonoBehaviour
         Time.timeScale = 0f;
         isPaused = true;
 
-        //// Lấy điểm hiện tại từ GameManager và hiển thị
-        //if (pauseScoreText != null && GameManager.instance != null)
-        //{
-        //    float score = GameManager.instance.GetCurrentScore();
-        //    pauseScoreText.text = "Score: " + Mathf.FloorToInt(score);
-        //}
+        if (GameManager.Instance != null)
+        {
+            float score = GameManager.Instance.GetCurrentScore();
+            float distance = GameManager.Instance.GetCurrentDistance();
+            PlayerPrefs.SetFloat("PausedScore", score);
+            PlayerPrefs.SetFloat("PausedDistance", distance);
+            PlayerPrefs.Save();
+
+            // Cập nhật UI
+            if (pauseScoreText != null)
+                pauseScoreText.text = Mathf.RoundToInt(score).ToString("D6");
+            if (pauseDistanceText != null)
+                pauseDistanceText.text = distance.ToString("F1") + "m";
+        }
     }
 }

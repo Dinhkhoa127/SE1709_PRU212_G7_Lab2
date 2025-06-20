@@ -12,6 +12,7 @@ public class AudioController : MonoBehaviour
     public AudioClip FinishRaceSource;
     public AudioClip SkiSource;
     public AudioClip LandingSource;
+    public AudioClip BoomSource;
 
     public bool isSoundOn = true;
     public bool isMusicOn = true;
@@ -109,5 +110,10 @@ public class AudioController : MonoBehaviour
     {
         if (isSoundOn && sfxSource != null && LandingSource != null)
             sfxSource.PlayOneShot(LandingSource);
+    }
+    public void PlayBoomSound()
+    {
+        if (isSoundOn && sfxSource != null && BoomSource != null)
+            sfxSource.PlayOneShot(BoomSource);
     }
 }
