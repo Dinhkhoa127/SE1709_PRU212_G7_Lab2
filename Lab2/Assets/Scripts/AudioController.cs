@@ -10,7 +10,8 @@ public class AudioController : MonoBehaviour
     public AudioSource musicSource;    // Dùng cho nhạc nền
 
     public AudioClip FinishRaceSource;
-
+    public AudioClip SkiSource;
+    public AudioClip LandingSource;
 
     public bool isSoundOn = true;
     public bool isMusicOn = true;
@@ -99,5 +100,14 @@ public class AudioController : MonoBehaviour
         if (isSoundOn && sfxSource != null && FinishRaceSource != null)
             sfxSource.PlayOneShot(FinishRaceSource);
     }
-
+    public void PlaySkiSound()
+    {
+        if (isSoundOn && sfxSource != null && SkiSource != null)
+            sfxSource.PlayOneShot(SkiSource);
+    }
+    public void PlayLandingSound()
+    {
+        if (isSoundOn && sfxSource != null && LandingSource != null)
+            sfxSource.PlayOneShot(LandingSource);
+    }
 }

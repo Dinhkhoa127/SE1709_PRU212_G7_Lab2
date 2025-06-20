@@ -1301,6 +1301,8 @@ MonoBehaviour:
   sfxSource: {fileID: 852601980}
   musicSource: {fileID: 852601979}
   FinishRaceSource: {fileID: 8300000, guid: b71ce8f14699ac44e914948bd8f2c239, type: 3}
+  SkiSource: {fileID: 8300000, guid: 553d0454ac0c10240ada0672d891f2ae, type: 3}
+  LandingSource: {fileID: 8300000, guid: 1501db7ff3551d94da18ae466238b2eb, type: 3}
   isSoundOn: 1
   isMusicOn: 1
 --- !u!4 &852601978
@@ -3388,7 +3390,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1991513602
 RectTransform:
   m_ObjectHideFlags: 0
