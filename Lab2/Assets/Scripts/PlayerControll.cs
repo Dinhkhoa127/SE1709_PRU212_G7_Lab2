@@ -117,7 +117,6 @@ public class PlayerController : MonoBehaviour
         }
     }
 
-
     private void StartFlip()
     {
         isFlipping = true;
@@ -126,5 +125,17 @@ public class PlayerController : MonoBehaviour
         // Tùy game bạn muốn flip trái hay phải
         flipDirection = 1f; // hoặc -1f nếu muốn flip ngược
     }
+    private void PerformFlip()
+    {
+        float angularThisFrame = Mathf.Abs(rb.angularVelocity) * Time.deltaTime;
+        totalFlipAngle += angularThisFrame;
 
+        rb.AddTorque(flipTorque * flipDirection);
+
+        if (totalFlipAngle >= targetFlipAngle)
+        {
+            isFlipping = false;
+            rb.angularVelocity = 0f; // Dừng xoay
+        }
+    }
 }
