@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float groundCheckRadius = 0.2f;
     [SerializeField] private LayerMask groundLayer; // thg này sẽ quyết định thg nào trong thế giới game đóng vai trò là mặt đất
     [SerializeField] private float jumpForce = 15f;
+    private bool wasGrounded = true;
 
     void Start()
     {
@@ -39,6 +40,13 @@ public class PlayerController : MonoBehaviour
         // Kiểm tra nếu nhân vật đang ở trên mặt đất
         isGrounded = CheckIfGrounded();
 
+        // Nếu vừa từ trên không xuống => reset combo
+        if (isGrounded && !wasGrounded)
+        {
+            GameManager.Instance.ResetCombo();
+        }
+
+        wasGrounded = isGrounded;
         if (boardEffect != null)
         {
             boardEffect.SetActive(isGrounded);
@@ -136,6 +144,8 @@ public class PlayerController : MonoBehaviour
         {
             isFlipping = false;
             rb.angularVelocity = 0f; // Dừng xoay
+            GameManager.Instance.AddFlipScore();
         }
+
     }
 }
