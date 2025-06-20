@@ -1,5 +1,4 @@
-﻿
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -9,7 +8,12 @@ public class PlayerController : MonoBehaviour
 
     // Thêm một biến kiểm tra nếu nhân vật đang chạm đất
     private bool isGrounded;
-
+    // Flip state
+    private bool isFlipping = false;
+    private float totalFlipAngle = 0f;
+    private float targetFlipAngle = 360f;
+    private float flipDirection = 1f; // 1 = xoay trái, -1 = xoay phải
+    [SerializeField] private float flipTorque = 10f;
     // Ground check params
     [SerializeField] private Transform groundCheck; // khi điểm này chạm mặt đất tức là thg player đang trên mặt đất
     [SerializeField] private float groundCheckRadius = 0.2f;
@@ -43,7 +47,20 @@ public class PlayerController : MonoBehaviour
         // Chỉ thực hiện roll khi không phải trên mặt đất
         if (!isGrounded)
         {
-            Roll();
+            // Nếu đang flip thì tự xoay, ngược lại thì dùng A/D
+            if (isFlipping)
+            {
+                PerformFlip();
+            }
+            else
+            {
+                Roll();
+
+                if (Input.GetKeyDown(KeyCode.E))
+                {
+                    StartFlip();
+                }
+            }
         }
         else
         {
@@ -100,4 +117,27 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+
+    private void StartFlip()
+    {
+        isFlipping = true;
+        totalFlipAngle = 0f;
+
+        // Tùy game bạn muốn flip trái hay phải
+        flipDirection = 1f; // hoặc -1f nếu muốn flip ngược
+    }
+
+    private void PerformFlip()
+    {
+        float angularThisFrame = Mathf.Abs(rb.angularVelocity) * Time.deltaTime;
+        totalFlipAngle += angularThisFrame;
+
+        rb.AddTorque(flipTorque * flipDirection);
+
+        if (totalFlipAngle >= targetFlipAngle)
+        {
+            isFlipping = false;
+            rb.angularVelocity = 0f; // Dừng xoay
+        }
+    }
 }

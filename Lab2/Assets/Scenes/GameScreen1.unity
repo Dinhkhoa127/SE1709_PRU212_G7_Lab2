@@ -30487,12 +30487,20 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.41069335
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.39908373
+      objectReference: {fileID: 0}
+    - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 343.15
+      value: 343.1603
       objectReference: {fileID: 0}
     - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -151.8
+      value: -151.791
       objectReference: {fileID: 0}
     - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_LocalPosition.z
@@ -30529,6 +30537,14 @@ PrefabInstance:
     - target: {fileID: 5423461368627665374, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_Name
       value: Bomb (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 7496212601051295909, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
+      propertyPath: m_Radius
+      value: 0.53422135
+      objectReference: {fileID: 0}
+    - target: {fileID: 7496212601051295909, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.15900505
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
