@@ -31966,11 +31966,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -440.95
+      value: -439.54
       objectReference: {fileID: 0}
     - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 58.54
+      value: 58.81
       objectReference: {fileID: 0}
     - target: {fileID: 1661057800155191812, guid: b7c979919ce5f504f931a48fc2277292, type: 3}
       propertyPath: m_LocalPosition.z
@@ -33084,11 +33084,7 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 2710143766004132536, guid: 522883fc0ec28a7499c9bf4d960383e8, type: 3}
   m_PrefabInstance: {fileID: 1724121343}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
 --- !u!1 &1735083695
-=======
---- !u!1 &1749501748
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -33096,34 +33092,22 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-<<<<<<< HEAD
   - component: {fileID: 1735083696}
   - component: {fileID: 1735083698}
   - component: {fileID: 1735083697}
   m_Layer: 5
   m_Name: Distance
-=======
-  - component: {fileID: 1749501749}
-  m_Layer: 0
-  m_Name: HelmetPos
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
-<<<<<<< HEAD
 --- !u!224 &1735083696
 RectTransform:
-=======
---- !u!4 &1749501749
-Transform:
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-<<<<<<< HEAD
   m_GameObject: {fileID: 1735083695}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
@@ -33176,7 +33160,28 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1735083695}
   m_CullTransparentMesh: 1
-=======
+--- !u!1 &1749501748
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1749501749}
+  m_Layer: 0
+  m_Name: HelmetPos
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1749501749
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1749501748}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
@@ -33187,7 +33192,6 @@ CanvasRenderer:
   - {fileID: 1151135685}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
 --- !u!1001 &1763223140
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -39169,11 +39173,7 @@ MonoBehaviour:
   currentLevelIndex: 6
   reload: 1
   finishEffect: {fileID: 1198474614}
-<<<<<<< HEAD
-  helmet: {fileID: 0}
-=======
   helmet: {fileID: 129055955}
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
 --- !u!114 &2044095809
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -39202,11 +39202,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   torqueAmount: 4
-<<<<<<< HEAD
-  boardEffect: {fileID: 0}
-=======
   boardEffect: {fileID: 354162026}
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
   flipTorque: 10
   groundCheck: {fileID: 758827577}
   groundCheckRadius: 0.2

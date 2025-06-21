@@ -101,10 +101,6 @@ public class GameManager : MonoBehaviour
             distanceText.text = "Distance: " + currentDistance.ToString("F1") + "m";
         }
     }
-<<<<<<< HEAD
-=======
-
->>>>>>> e8926b28a41fdb8c9ff695e3fd84c9c459b6bff1
     // Public methods để các script khác có thể gọi
     public float GetCurrentScore()
     {
