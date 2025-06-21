@@ -33,6 +33,7 @@ public class GameManager : MonoBehaviour
             return;
         }
         Instance = this;
+        DontDestroyOnLoad(gameObject);
     }
 
     void Start()
@@ -175,5 +176,14 @@ public class GameManager : MonoBehaviour
         {
             comboText.gameObject.SetActive(false);
         }
+    }
+
+    // Trước khi load scene GameOver
+    public void SaveGameOverData()
+    {
+        Debug.Log("SaveGameOverData called! Score: " + GetCurrentScore() + ", Distance: " + GetCurrentDistance());
+        PlayerPrefs.SetFloat("LastScore", GetCurrentScore());
+        PlayerPrefs.SetFloat("LastDistance", GetCurrentDistance());
+        PlayerPrefs.Save();
     }
 }

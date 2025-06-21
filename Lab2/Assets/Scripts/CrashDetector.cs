@@ -7,7 +7,7 @@ public class CrashDetector : MonoBehaviour
     [SerializeField] private float reload = 1f;
     [SerializeField] ParticleSystem finishEffect;
     [SerializeField] private GameObject helmet;
-
+    [SerializeField] private string gameOverSceneName = "EndGameScreen";
     private void OnTriggerEnter2D(Collider2D collision)
     {
         bool isObstacle = collision.CompareTag("Obstacles");
@@ -48,7 +48,8 @@ public class CrashDetector : MonoBehaviour
                 rb.bodyType = RigidbodyType2D.Static;
             }
 
-            Invoke("ReloadScene", reload);
+            //Invoke("ReloadScene", reload);
+            Invoke("LoadGameOverScene", reload);
         }
     }
 
@@ -58,4 +59,19 @@ public class CrashDetector : MonoBehaviour
     {
         SceneManager.LoadScene(currentLevelIndex);
     }
+
+    public void LoadGameOverScene()
+    {
+        if (GameManager.Instance != null)
+        {
+            GameManager.Instance.SaveGameOverData();
+        }
+        // Lưu lại tên map vừa chơi
+        string lastMapName = UnityEngine.SceneManagement.SceneManager.GetActiveScene().name;
+        PlayerPrefs.SetString("LastMapName", lastMapName);
+        PlayerPrefs.Save();
+
+        UnityEngine.SceneManagement.SceneManager.LoadScene(gameOverSceneName);
+    }
+
 }
