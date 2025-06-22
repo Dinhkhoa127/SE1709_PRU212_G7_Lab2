@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.SceneManagement;
 
@@ -9,7 +9,7 @@ public class Explode : MonoBehaviour
 
     void Start()
     {
-        // Get the Animator component attached to the object
+        // Get the Animator component attached to the object  
         animator = GetComponent<Animator>();
     }
 
@@ -26,7 +26,7 @@ public class Explode : MonoBehaviour
                 playerRb.bodyType = RigidbodyType2D.Static;
             }
 
-            Destroy(this.gameObject, 0.7f); // Destroy the object after 0.5 seconds
+            Destroy(this.gameObject, 0.7f); // Destroy the object after 0.5 seconds  
             Destroy(collision.gameObject, 0.7f);
             StartCoroutine(PlayCrashEffectWithDelay(0.1f));
             Invoke("ReloadScene", 0.6f);
@@ -35,10 +35,10 @@ public class Explode : MonoBehaviour
 
     private IEnumerator PlayCrashEffectWithDelay(float delay)
     {
-        // Wait for the specified delay (0.2 seconds)
+        // Wait for the specified delay (0.2 seconds)  
         yield return new WaitForSeconds(delay);
 
-        // Play the crash effect after the delay
+        // Play the crash effect after the delay  
         if (crashEffect != null)
         {
             crashEffect.Play();
@@ -46,9 +46,24 @@ public class Explode : MonoBehaviour
         }
     }
 
+    //private void ReloadScene()
+    //{
+    //    SceneManager.LoadScene(0);
+    //}
     private void ReloadScene()
     {
-        SceneManager.LoadScene(0);
+        // Gọi giống CrashDetector
+        // Use the updated method to find the CrashDetector object  
+        var crashDetector = Object.FindFirstObjectByType<CrashDetector>();
+        if (crashDetector != null)
+        {
+            crashDetector.LoadGameOverScene();
+        }
+        else
+        {
+            // Fallback: load scene hiện tại
+            int currentIndex = UnityEngine.SceneManagement.SceneManager.GetActiveScene().buildIndex;
+            UnityEngine.SceneManagement.SceneManager.LoadScene(currentIndex);
+        }
     }
-
 }

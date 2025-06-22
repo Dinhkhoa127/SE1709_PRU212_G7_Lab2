@@ -1511,6 +1511,7 @@ MonoBehaviour:
   scoreText: {fileID: 99376170}
   distanceText: {fileID: 1797460236}
   nameInputField: {fileID: 1991551161}
+  recordText: {fileID: 1839552800}
 --- !u!1 &1361209917
 GameObject:
   m_ObjectHideFlags: 0
