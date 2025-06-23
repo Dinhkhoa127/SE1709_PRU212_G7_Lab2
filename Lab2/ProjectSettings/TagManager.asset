@@ -8,6 +8,7 @@ TagManager:
   - Obstacles
   - Bomb
   - Storm
+  - Abyss
   layers:
   - Default
   - TransparentFX

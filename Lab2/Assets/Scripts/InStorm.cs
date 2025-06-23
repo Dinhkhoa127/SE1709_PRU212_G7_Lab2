@@ -40,6 +40,7 @@ public class InStorm : MonoBehaviour
             {
                 isInStorm = true;
                 particleSystemTransform.gameObject.SetActive(true); // Bật hiệu ứng
+                AudioController.instance.PlaySnowStormSound(); // Phát âm thanh bão tuyết
                 Debug.Log("Player is in the snowstorm → Slow down");
             }
 

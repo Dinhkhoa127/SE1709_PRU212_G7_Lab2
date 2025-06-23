@@ -1307,6 +1307,7 @@ MonoBehaviour:
   CrashSource: {fileID: 8300000, guid: 6a53531be5bb01741b71167414c12a17, type: 3}
   HelmetSource: {fileID: 8300000, guid: a5f9d86b3f5a3fc42992fdbf916e5371, type: 3}
   HelmetCrashSource: {fileID: 8300000, guid: ca8aa4e6d256cc84eb1f71d2ead89de7, type: 3}
+  SnowStormSource: {fileID: 8300000, guid: 77578e55699bcd44daf4d17784febe03, type: 3}
   isSoundOn: 1
   isMusicOn: 1
 --- !u!4 &852601978
