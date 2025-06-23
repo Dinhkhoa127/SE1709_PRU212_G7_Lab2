@@ -15,6 +15,7 @@ public class GetHelmet : MonoBehaviour
         {
             // Equip the helmet to the player
             Debug.Log("Helmet has been collected!");
+            AudioController.instance.PlayHelmetSound();
             helmet.SetActive(true);
             Destroy(this.gameObject);
         }

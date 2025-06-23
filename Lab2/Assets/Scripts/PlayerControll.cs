@@ -44,6 +44,7 @@ public class PlayerController : MonoBehaviour
         if (isGrounded && !wasGrounded)
         {
             GameManager.Instance.ResetCombo();
+            AudioController.instance.PlayLandingSound();
         }
 
         wasGrounded = isGrounded;

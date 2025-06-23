@@ -25,7 +25,7 @@ public class Explode : MonoBehaviour
                 playerRb.linearVelocity = Vector2.zero;
                 playerRb.bodyType = RigidbodyType2D.Static;
             }
-
+            AudioController.instance.PlayBoomSound();
             Destroy(this.gameObject, 0.7f); // Destroy the object after 0.5 seconds  
             Destroy(collision.gameObject, 0.7f);
             StartCoroutine(PlayCrashEffectWithDelay(0.1f));

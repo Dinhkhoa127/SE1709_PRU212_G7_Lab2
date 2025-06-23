@@ -20,6 +20,7 @@ public class CrashDetector : MonoBehaviour
             if (isObstacle)
             {
                 Debug.Log("Crash obstacle, with helmet - no death");
+                AudioController.instance.PlayHelmetCrashSound();
                 Destroy(collision.gameObject); // Delete obstacle
                 helmet.SetActive(false);       // Now helmet is inactive
                 return;
@@ -39,6 +40,7 @@ public class CrashDetector : MonoBehaviour
         if (isObstacle || isGround)
         {
             Debug.Log("No helmet - Death");
+            AudioController.instance.PlayCrashSound();
             finishEffect.Play();
 
             Rigidbody2D rb = GetComponent<Rigidbody2D>();

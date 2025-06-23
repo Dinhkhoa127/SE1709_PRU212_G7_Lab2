@@ -13,6 +13,9 @@ public class AudioController : MonoBehaviour
     public AudioClip SkiSource;
     public AudioClip LandingSource;
     public AudioClip BoomSource;
+    public AudioClip CrashSource;
+    public AudioClip HelmetSource;
+    public AudioClip HelmetCrashSource;
 
     public bool isSoundOn = true;
     public bool isMusicOn = true;
@@ -96,6 +99,11 @@ public class AudioController : MonoBehaviour
         PlayerPrefs.Save();
     }
 
+    public void PlayCrashSound()
+    {
+        if (isSoundOn && sfxSource != null && FinishRaceSource != null)
+            sfxSource.PlayOneShot(CrashSource);
+    }
     public void PlayFinishGameSound()
     {
         if (isSoundOn && sfxSource != null && FinishRaceSource != null)
@@ -115,5 +123,16 @@ public class AudioController : MonoBehaviour
     {
         if (isSoundOn && sfxSource != null && BoomSource != null)
             sfxSource.PlayOneShot(BoomSource);
+    }
+
+    public void PlayHelmetSound()
+    {
+        if (isSoundOn && sfxSource != null && HelmetSource != null)
+            sfxSource.PlayOneShot(HelmetSource);
+    }
+    public void PlayHelmetCrashSound()
+    {
+        if (isSoundOn && sfxSource != null && HelmetCrashSource != null)
+            sfxSource.PlayOneShot(HelmetCrashSource);
     }
 }
