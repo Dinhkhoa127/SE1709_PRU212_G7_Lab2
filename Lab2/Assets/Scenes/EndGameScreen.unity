@@ -1403,7 +1403,7 @@ MonoBehaviour:
       m_Calls:
       - m_Target: {fileID: 1245414841}
         m_TargetAssemblyTypeName: MainMenuController, Assembly-CSharp
-        m_MethodName: PlayLevel1
+        m_MethodName: ReplayLastLevel
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -1512,6 +1512,11 @@ MonoBehaviour:
   distanceText: {fileID: 1797460236}
   nameInputField: {fileID: 1991551161}
   recordText: {fileID: 1839552800}
+  star1: {fileID: 1030747073}
+  star2: {fileID: 1767807195}
+  star3: {fileID: 2126175300}
+  starBlackSprite: {fileID: 6773066378039494445, guid: d75f9b56de6cb0b4793afb27632e8b0d, type: 3}
+  starGoldSprite: {fileID: 8792277995360980545, guid: cf6e0b1d22cf13940801882e2e607781, type: 3}
 --- !u!1 &1361209917
 GameObject:
   m_ObjectHideFlags: 0

@@ -31,6 +31,7 @@ public class MainMenuController : MonoBehaviour
     }
     public void PlayLevel1()
     {
+        SaveCurrentLevel("GameScreen1");
         SceneManager.LoadScene("GameScreen1");
         if (Time.timeScale == 0f)
         {
@@ -39,6 +40,7 @@ public class MainMenuController : MonoBehaviour
     }
     public void PlayLevel3()
     {
+        SaveCurrentLevel("GameScreen3");
         SceneManager.LoadScene("GameScreen3");
         if (Time.timeScale == 0f)
         {
@@ -47,6 +49,7 @@ public class MainMenuController : MonoBehaviour
     }
     public void PlayLevel2()
     {
+        SaveCurrentLevel("GameScreen2");
         SceneManager.LoadScene("GameScreen2");
         if (Time.timeScale == 0f)
         {
@@ -58,7 +61,25 @@ public class MainMenuController : MonoBehaviour
         // Tên các scene map của bạn
         string[] mapNames = { "GameScreen1", "GameScreen2", "GameScreen3" };
         int randomIndex = Random.Range(0, mapNames.Length); // Random từ 0 đến 2
+        SaveCurrentLevel(mapNames[randomIndex]);
         SceneManager.LoadScene(mapNames[randomIndex]);
     }
 
+    // Lưu lại tên màn chơi hiện tại
+    public static void SaveCurrentLevel(string sceneName)
+    {
+        PlayerPrefs.SetString("LastPlayedLevel", sceneName);
+        PlayerPrefs.Save();
+    }
+
+    // Hàm replay lại màn vừa chơi
+    public void ReplayLastLevel()
+    {
+        string lastLevel = PlayerPrefs.GetString("LastPlayedLevel", "GameScreen1");
+        SceneManager.LoadScene(lastLevel);
+        if (Time.timeScale == 0f)
+        {
+            Time.timeScale = 1f;
+        }
+    }
 }

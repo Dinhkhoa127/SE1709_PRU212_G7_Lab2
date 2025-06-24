@@ -3,6 +3,7 @@ using TMPro;
 using System.IO;
 using System.Collections.Generic;
 using UnityEngine.SceneManagement; // Thêm dòng này ở đầu file
+using UnityEngine.UI;
 
 public class GameOverUI : MonoBehaviour
 {
@@ -10,6 +11,12 @@ public class GameOverUI : MonoBehaviour
     [SerializeField] private TextMeshProUGUI distanceText;
     [SerializeField] private TMP_InputField nameInputField;
     [SerializeField] private TextMeshProUGUI recordText;
+    [Header("Star UI")]
+    [SerializeField] private Image star1;
+    [SerializeField] private Image star2;
+    [SerializeField] private Image star3;
+    [SerializeField] private Sprite starBlackSprite;
+    [SerializeField] private Sprite starGoldSprite;
 
     [System.Serializable]
     public class PlayerResult
@@ -21,8 +28,9 @@ public class GameOverUI : MonoBehaviour
 
     void Start()
     {
+        int lastScore = Mathf.RoundToInt(PlayerPrefs.GetFloat("LastScore", 0));
         if (scoreText != null)
-            scoreText.text = Mathf.RoundToInt(PlayerPrefs.GetFloat("LastScore", 0)).ToString();
+            scoreText.text = lastScore.ToString();
 
         if (distanceText != null)
             distanceText.text = PlayerPrefs.GetFloat("LastDistance", 0).ToString("F1") + "m";
@@ -33,6 +41,7 @@ public class GameOverUI : MonoBehaviour
             nameInputField.text = playerName;
             nameInputField.interactable = true;
         }
+        UpdateStars(lastScore);
         DisplayHighestScore();
     }
 
@@ -115,6 +124,19 @@ public class GameOverUI : MonoBehaviour
                 recordText.text = "0"; // Nếu không có dữ liệu, hiển thị 0
             }
         }
+    }
+
+    private void UpdateStars(int score)
+    {
+        int starCount = 0;
+        if (score >= 50) starCount = 1;
+        if (score >= 120) starCount = 2;
+        if (score >= 200) starCount = 3;
+
+        // Đặt sprite cho từng sao
+        star1.sprite = starCount >= 1 ? starGoldSprite : starBlackSprite;
+        star2.sprite = starCount >= 2 ? starGoldSprite : starBlackSprite;
+        star3.sprite = starCount >= 3 ? starGoldSprite : starBlackSprite;
     }
 }
 

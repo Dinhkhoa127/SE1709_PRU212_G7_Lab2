@@ -10,8 +10,8 @@ public class Star : MonoBehaviour
         {
            
             GameManager.Instance.AddScore(scoreValue);
+            AudioController.instance.PlaySelectStarSound();
 
-          
             Destroy(gameObject);
         }
     }

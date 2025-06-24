@@ -17,6 +17,9 @@ public class AudioController : MonoBehaviour
     public AudioClip HelmetSource;
     public AudioClip HelmetCrashSource;
     public AudioClip SnowStormSource;
+    public AudioClip WinSource;
+    public AudioClip LoseSource;
+    public AudioClip SelectStarSource;
 
     public bool isSoundOn = true;
     public bool isMusicOn = true;
@@ -141,5 +144,20 @@ public class AudioController : MonoBehaviour
     {
         if (isSoundOn && sfxSource != null && SnowStormSource != null)
             sfxSource.PlayOneShot(SnowStormSource);
+    }
+    public void PlayWinSound()
+    {
+        if (isSoundOn && sfxSource != null && WinSource != null)
+            sfxSource.PlayOneShot(WinSource);
+    }
+    public void PlayLoseSound()
+    {
+        if (isSoundOn && sfxSource != null && LoseSource != null)
+            sfxSource.PlayOneShot(LoseSource);
+    }
+    public void PlaySelectStarSound()
+    {
+        if (isSoundOn && sfxSource != null && SelectStarSource != null)
+            sfxSource.PlayOneShot(SelectStarSource);
     }
 }
