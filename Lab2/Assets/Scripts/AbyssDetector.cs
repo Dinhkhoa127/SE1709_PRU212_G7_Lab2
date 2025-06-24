@@ -22,6 +22,7 @@ public class AbyssDetector : MonoBehaviour
                     rb.linearVelocity = Vector2.zero;
                     rb.bodyType = RigidbodyType2D.Static;
                 }
+                crashEffect?.Play();
 
                 // Trigger the abyss effect
                 Debug.Log("Player has entered the abyss!");
