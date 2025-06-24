@@ -129,9 +129,9 @@ public class GameOverUI : MonoBehaviour
     private void UpdateStars(int score)
     {
         int starCount = 0;
-        if (score >= 50) starCount = 1;
-        if (score >= 120) starCount = 2;
-        if (score >= 200) starCount = 3;
+        if (score >= 150) starCount = 1;
+        if (score >= 250) starCount = 2;
+        if (score >= 400) starCount = 3;
 
         // Đặt sprite cho từng sao
         star1.sprite = starCount >= 1 ? starGoldSprite : starBlackSprite;

@@ -5372,7 +5372,7 @@ GameObject:
   - component: {fileID: 111013105}
   m_Layer: 0
   m_Name: Abyss
-  m_TagString: Ground
+  m_TagString: Abyss
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -26966,7 +26966,7 @@ Rigidbody2D:
   m_UseAutoMass: 0
   m_Mass: 1
   m_LinearDamping: 0
-  m_AngularDamping: 12
+  m_AngularDamping: 26.5
   m_GravityScale: 2
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -27035,7 +27035,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
-  jumpForce: 5
+  jumpForce: 6
 --- !u!114 &925589866
 MonoBehaviour:
   m_ObjectHideFlags: 0
