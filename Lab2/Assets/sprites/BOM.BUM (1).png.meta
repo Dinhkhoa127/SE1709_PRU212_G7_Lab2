@@ -1,0 +1,2808 @@
+fileFormatVersion: 2
+guid: 87f9a2ee39e8a364ebca4e711b7890a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5126012226122314544
+    second: BOM.BUM (1)_0
+  - first:
+      213: 1000257964033717889
+    second: BOM.BUM (1)_1
+  - first:
+      213: -4517594365461115721
+    second: BOM.BUM (1)_2
+  - first:
+      213: 2273179943762096936
+    second: BOM.BUM (1)_3
+  - first:
+      213: 7896508977212467672
+    second: BOM.BUM (1)_4
+  - first:
+      213: 7359502469416283537
+    second: BOM.BUM (1)_5
+  - first:
+      213: 252395277841385356
+    second: BOM.BUM (1)_6
+  - first:
+      213: 7425119773799569071
+    second: BOM.BUM (1)_7
+  - first:
+      213: 8712626177583206974
+    second: BOM.BUM (1)_8
+  - first:
+      213: 8939136386109125595
+    second: BOM.BUM (1)_9
+  - first:
+      213: 6304816375698948541
+    second: BOM.BUM (1)_10
+  - first:
+      213: -403762894172733114
+    second: BOM.BUM (1)_11
+  - first:
+      213: 3182936967775476437
+    second: BOM.BUM (1)_12
+  - first:
+      213: -5447313519722853406
+    second: BOM.BUM (1)_13
+  - first:
+      213: -344255113756786283
+    second: BOM.BUM (1)_14
+  - first:
+      213: -8268308649694819395
+    second: BOM.BUM (1)_15
+  - first:
+      213: -1801429845088645440
+    second: BOM.BUM (1)_16
+  - first:
+      213: -4875340763905215808
+    second: BOM.BUM (1)_17
+  - first:
+      213: 7917287673648172334
+    second: BOM.BUM (1)_18
+  - first:
+      213: -7355161571161390731
+    second: BOM.BUM (1)_19
+  - first:
+      213: 7837239389685459632
+    second: BOM.BUM (1)_20
+  - first:
+      213: -2122988489011652476
+    second: BOM.BUM (1)_21
+  - first:
+      213: 6108410708866034541
+    second: BOM.BUM (1)_22
+  - first:
+      213: 3269461906603357538
+    second: BOM.BUM (1)_23
+  - first:
+      213: 8548464175677893304
+    second: BOM.BUM (1)_24
+  - first:
+      213: 3053527104993106613
+    second: BOM.BUM (1)_25
+  - first:
+      213: -5654653950302177610
+    second: BOM.BUM (1)_26
+  - first:
+      213: -5547479482208863496
+    second: BOM.BUM (1)_27
+  - first:
+      213: 1891816852480669663
+    second: BOM.BUM (1)_28
+  - first:
+      213: -8415800716032549760
+    second: BOM.BUM (1)_29
+  - first:
+      213: -9069402225103904217
+    second: BOM.BUM (1)_30
+  - first:
+      213: -1906876782500627010
+    second: BOM.BUM (1)_31
+  - first:
+      213: -3602068882378642139
+    second: BOM.BUM (1)_32
+  - first:
+      213: -4733227404037459242
+    second: BOM.BUM (1)_33
+  - first:
+      213: -6961416988592789076
+    second: BOM.BUM (1)_34
+  - first:
+      213: 2049340549462653900
+    second: BOM.BUM (1)_35
+  - first:
+      213: -4262164659375325261
+    second: BOM.BUM (1)_36
+  - first:
+      213: -7415673947320885216
+    second: BOM.BUM (1)_37
+  - first:
+      213: -6792617459654775362
+    second: BOM.BUM (1)_38
+  - first:
+      213: 2927643332051969665
+    second: BOM.BUM (1)_39
+  - first:
+      213: 8230279197105777977
+    second: BOM.BUM (1)_40
+  - first:
+      213: 7079534512953474868
+    second: BOM.BUM (1)_41
+  - first:
+      213: -3603197618459516417
+    second: BOM.BUM (1)_42
+  - first:
+      213: -1163636649463603805
+    second: BOM.BUM (1)_43
+  - first:
+      213: -1135606600186850882
+    second: BOM.BUM (1)_44
+  - first:
+      213: -4451642530969155851
+    second: BOM.BUM (1)_45
+  - first:
+      213: -7361499288572426317
+    second: BOM.BUM (1)_46
+  - first:
+      213: 6928750106880371484
+    second: BOM.BUM (1)_47
+  - first:
+      213: -7218797807023757129
+    second: BOM.BUM (1)_48
+  - first:
+      213: 1578739059032706810
+    second: BOM.BUM (1)_49
+  - first:
+      213: 7665244780919221314
+    second: BOM.BUM (1)_50
+  - first:
+      213: -4634294788296143557
+    second: BOM.BUM (1)_51
+  - first:
+      213: -7639741512781974325
+    second: BOM.BUM (1)_52
+  - first:
+      213: 3733781608746236706
+    second: BOM.BUM (1)_53
+  - first:
+      213: -3671693523763890622
+    second: BOM.BUM (1)_54
+  - first:
+      213: -5850933295289780677
+    second: BOM.BUM (1)_55
+  - first:
+      213: 7577585589782444055
+    second: BOM.BUM (1)_56
+  - first:
+      213: -7474183748005219526
+    second: BOM.BUM (1)_57
+  - first:
+      213: 1561725280031579608
+    second: BOM.BUM (1)_58
+  - first:
+      213: 2328018700135653084
+    second: BOM.BUM (1)_59
+  - first:
+      213: 4179248892230128064
+    second: BOM.BUM (1)_60
+  - first:
+      213: -6098577065844169645
+    second: BOM.BUM (1)_61
+  - first:
+      213: -2012115245165649506
+    second: BOM.BUM (1)_62
+  - first:
+      213: -1965591379442144380
+    second: BOM.BUM (1)_63
+  - first:
+      213: -6960749768845026443
+    second: BOM.BUM (1)_64
+  - first:
+      213: 6038168730890094020
+    second: BOM.BUM (1)_65
+  - first:
+      213: 6245649141201889290
+    second: BOM.BUM (1)_66
+  - first:
+      213: -1154430272455591528
+    second: BOM.BUM (1)_67
+  - first:
+      213: 3534630476790162831
+    second: BOM.BUM (1)_68
+  - first:
+      213: 2904782809203356410
+    second: BOM.BUM (1)_69
+  - first:
+      213: -2147502285853437594
+    second: BOM.BUM (1)_70
+  - first:
+      213: 5994229647699282402
+    second: BOM.BUM (1)_71
+  - first:
+      213: -919196781858091954
+    second: BOM.BUM (1)_72
+  - first:
+      213: 5544469065780097451
+    second: BOM.BUM (1)_73
+  - first:
+      213: -5018220154492093032
+    second: BOM.BUM (1)_74
+  - first:
+      213: 537084622732658787
+    second: BOM.BUM (1)_75
+  - first:
+      213: -1247054198273767639
+    second: BOM.BUM (1)_76
+  - first:
+      213: -2878753240725542937
+    second: BOM.BUM (1)_77
+  - first:
+      213: 2750410715353201616
+    second: BOM.BUM (1)_78
+  - first:
+      213: 6691406084698100115
+    second: BOM.BUM (1)_79
+  - first:
+      213: -2861592137520310183
+    second: BOM.BUM (1)_80
+  - first:
+      213: 8246346481006465755
+    second: BOM.BUM (1)_81
+  - first:
+      213: -3370732818925692903
+    second: BOM.BUM (1)_82
+  - first:
+      213: 8461830705363840030
+    second: BOM.BUM (1)_83
+  - first:
+      213: -4695686093995795012
+    second: BOM.BUM (1)_84
+  - first:
+      213: 1197881694941690215
+    second: BOM.BUM (1)_85
+  - first:
+      213: -5625519865400387214
+    second: BOM.BUM (1)_86
+  - first:
+      213: -2943618838686544685
+    second: BOM.BUM (1)_87
+  - first:
+      213: 495616903191397828
+    second: BOM.BUM (1)_88
+  - first:
+      213: 200884129281998981
+    second: BOM.BUM (1)_89
+  - first:
+      213: 2223756040004697698
+    second: BOM.BUM (1)_90
+  - first:
+      213: -2756379929386958082
+    second: BOM.BUM (1)_91
+  - first:
+      213: 8743910062100727056
+    second: BOM.BUM (1)_92
+  - first:
+      213: -5749947121666563607
+    second: BOM.BUM (1)_93
+  - first:
+      213: -8567409222114371975
+    second: BOM.BUM (1)_94
+  - first:
+      213: -9128491202901549039
+    second: BOM.BUM (1)_95
+  - first:
+      213: -1712619289148798212
+    second: BOM.BUM (1)_96
+  - first:
+      213: 4567571258822239559
+    second: BOM.BUM (1)_97
+  - first:
+      213: 152604749117481502
+    second: BOM.BUM (1)_98
+  - first:
+      213: -2856016856504659279
+    second: BOM.BUM (1)_99
+  - first:
+      213: 2924135158095519109
+    second: BOM.BUM (1)_100
+  - first:
+      213: -5933381648806102650
+    second: BOM.BUM (1)_101
+  - first:
+      213: 7793830163798181434
+    second: BOM.BUM (1)_102
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BOM.BUM (1)_0
+      rect:
+        serializedVersion: 2
+        x: 8271
+        y: 191
+        width: 218
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8ba30a0fbcd8b0800000000000000
+      internalID: -5126012226122314544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_1
+      rect:
+        serializedVersion: 2
+        x: 8775
+        y: 191
+        width: 234
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1863cf59151a1ed00800000000000000
+      internalID: 1000257964033717889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_2
+      rect:
+        serializedVersion: 2
+        x: 9319
+        y: 359
+        width: 98
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bc426f1cd74e41c0800000000000000
+      internalID: -4517594365461115721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_3
+      rect:
+        serializedVersion: 2
+        x: 9863
+        y: 383
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8237b727d15fb8f10800000000000000
+      internalID: 2273179943762096936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_4
+      rect:
+        serializedVersion: 2
+        x: 10383
+        y: 391
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9ae68c319069d60800000000000000
+      internalID: 7896508977212467672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_5
+      rect:
+        serializedVersion: 2
+        x: 10895
+        y: 407
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dea2de084322660800000000000000
+      internalID: 7359502469416283537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_6
+      rect:
+        serializedVersion: 2
+        x: 11415
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c87c8befa20b08300800000000000000
+      internalID: 252395277841385356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_7
+      rect:
+        serializedVersion: 2
+        x: 11927
+        y: 415
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa65d0428135b0760800000000000000
+      internalID: 7425119773799569071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_8
+      rect:
+        serializedVersion: 2
+        x: 7759
+        y: 191
+        width: 226
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32dd97d85779e870800000000000000
+      internalID: 8712626177583206974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_9
+      rect:
+        serializedVersion: 2
+        x: 9831
+        y: 367
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3bdcc7e213e0c70800000000000000
+      internalID: 8939136386109125595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_10
+      rect:
+        serializedVersion: 2
+        x: 10351
+        y: 375
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db10a9fd6153f7750800000000000000
+      internalID: 6304816375698948541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_11
+      rect:
+        serializedVersion: 2
+        x: 10863
+        y: 383
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 641c95779cb856af0800000000000000
+      internalID: -403762894172733114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_12
+      rect:
+        serializedVersion: 2
+        x: 10919
+        y: 391
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da57baee401c2c20800000000000000
+      internalID: 3182936967775476437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_13
+      rect:
+        serializedVersion: 2
+        x: 11383
+        y: 391
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb8cb407314764b0800000000000000
+      internalID: -5447313519722853406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_14
+      rect:
+        serializedVersion: 2
+        x: 11439
+        y: 399
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5914a684cc5f83bf0800000000000000
+      internalID: -344255113756786283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb86a92711114d80800000000000000
+      internalID: -8268308649694819395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 255
+        width: 114
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce44bba9190007e0800000000000000
+      internalID: -1801429845088645440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_17
+      rect:
+        serializedVersion: 2
+        x: 1159
+        y: 247
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c2b278e76f475cb0800000000000000
+      internalID: -4875340763905215808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_18
+      rect:
+        serializedVersion: 2
+        x: 1671
+        y: 247
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2dc06c013bdfdd60800000000000000
+      internalID: 7917287673648172334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_19
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 255
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571425535873de990800000000000000
+      internalID: -7355161571161390731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_20
+      rect:
+        serializedVersion: 2
+        x: 2687
+        y: 255
+        width: 114
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0baa6e193b773cc60800000000000000
+      internalID: 7837239389685459632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_21
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 207
+        width: 154
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4889732a731a982e0800000000000000
+      internalID: -2122988489011652476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_22
+      rect:
+        serializedVersion: 2
+        x: 6735
+        y: 199
+        width: 226
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6be62c0d2f65c450800000000000000
+      internalID: 6108410708866034541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_23
+      rect:
+        serializedVersion: 2
+        x: 7239
+        y: 191
+        width: 242
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 265b3cd18467f5d20800000000000000
+      internalID: 3269461906603357538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_24
+      rect:
+        serializedVersion: 2
+        x: 9423
+        y: 335
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baee6640ee32a670800000000000000
+      internalID: 8548464175677893304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_25
+      rect:
+        serializedVersion: 2
+        x: 9943
+        y: 351
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba142549be406a20800000000000000
+      internalID: 3053527104993106613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_26
+      rect:
+        serializedVersion: 2
+        x: 10455
+        y: 359
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6ba7c1132a681b0800000000000000
+      internalID: -5654653950302177610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_27
+      rect:
+        serializedVersion: 2
+        x: 10983
+        y: 367
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa3c208dc46303b0800000000000000
+      internalID: -5547479482208863496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_28
+      rect:
+        serializedVersion: 2
+        x: 11495
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd735307765114a10800000000000000
+      internalID: 1891816852480669663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_29
+      rect:
+        serializedVersion: 2
+        x: 12007
+        y: 383
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cd66c66d1153b80800000000000000
+      internalID: -8415800716032549760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_30
+      rect:
+        serializedVersion: 2
+        x: 3207
+        y: 247
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7226b8f5ab2032280800000000000000
+      internalID: -9069402225103904217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_31
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 247
+        width: 98
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd3c9c5ba96985e0800000000000000
+      internalID: -1906876782500627010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_32
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 255
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52d2551af61e20ec0800000000000000
+      internalID: -3602068882378642139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_33
+      rect:
+        serializedVersion: 2
+        x: 4735
+        y: 255
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2f335f0c2305eb0800000000000000
+      internalID: -4733227404037459242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_34
+      rect:
+        serializedVersion: 2
+        x: 5247
+        y: 255
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9ae8dc124146f90800000000000000
+      internalID: -6961416988592789076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_35
+      rect:
+        serializedVersion: 2
+        x: 5751
+        y: 239
+        width: 122
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb76823f58b07c10800000000000000
+      internalID: 2049340549462653900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_36
+      rect:
+        serializedVersion: 2
+        x: 9287
+        y: 311
+        width: 42
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfb5bff2dfb9d4c0800000000000000
+      internalID: -4262164659375325261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_37
+      rect:
+        serializedVersion: 2
+        x: 9335
+        y: 327
+        width: 66
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 020e1d7b5db361990800000000000000
+      internalID: -7415673947320885216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_38
+      rect:
+        serializedVersion: 2
+        x: 9399
+        y: 255
+        width: 130
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd2926c866cbb1a0800000000000000
+      internalID: -6792617459654775362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_39
+      rect:
+        serializedVersion: 2
+        x: 9799
+        y: 319
+        width: 34
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186aff3691411a820800000000000000
+      internalID: 2927643332051969665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_40
+      rect:
+        serializedVersion: 2
+        x: 9863
+        y: 327
+        width: 42
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93de6c9e253d73270800000000000000
+      internalID: 8230279197105777977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_41
+      rect:
+        serializedVersion: 2
+        x: 9983
+        y: 327
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fb5bb612f8f3260800000000000000
+      internalID: 7079534512953474868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_42
+      rect:
+        serializedVersion: 2
+        x: 10311
+        y: 327
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ef284bdedefdc0800000000000000
+      internalID: -3603197618459516417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_43
+      rect:
+        serializedVersion: 2
+        x: 10391
+        y: 327
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad981de1aee9dfe0800000000000000
+      internalID: -1163636649463603805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_44
+      rect:
+        serializedVersion: 2
+        x: 10519
+        y: 327
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb1164750d38d30f0800000000000000
+      internalID: -1135606600186850882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_45
+      rect:
+        serializedVersion: 2
+        x: 10823
+        y: 335
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f6009234b69832c0800000000000000
+      internalID: -4451642530969155851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_46
+      rect:
+        serializedVersion: 2
+        x: 10903
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b789526663b6d990800000000000000
+      internalID: -7361499288572426317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_47
+      rect:
+        serializedVersion: 2
+        x: 11039
+        y: 327
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bed0a138dd72060800000000000000
+      internalID: 6928750106880371484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_48
+      rect:
+        serializedVersion: 2
+        x: 11335
+        y: 335
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8eafe24ada1db90800000000000000
+      internalID: -7218797807023757129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_49
+      rect:
+        serializedVersion: 2
+        x: 11415
+        y: 335
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afecda64fcec8e510800000000000000
+      internalID: 1578739059032706810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_50
+      rect:
+        serializedVersion: 2
+        x: 11847
+        y: 343
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c6b1b148b606a60800000000000000
+      internalID: 7665244780919221314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_51
+      rect:
+        serializedVersion: 2
+        x: 9927
+        y: 303
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d0a2f817dafafb0800000000000000
+      internalID: -4634294788296143557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_52
+      rect:
+        serializedVersion: 2
+        x: 10455
+        y: 303
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc433da329f2af590800000000000000
+      internalID: -7639741512781974325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_53
+      rect:
+        serializedVersion: 2
+        x: 11559
+        y: 327
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bb43a379e01d330800000000000000
+      internalID: 3733781608746236706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_54
+      rect:
+        serializedVersion: 2
+        x: 9359
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24673ff81368b0dc0800000000000000
+      internalID: -3671693523763890622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_55
+      rect:
+        serializedVersion: 2
+        x: 9871
+        y: 287
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b363fb1ea2f4dcea0800000000000000
+      internalID: -5850933295289780677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_56
+      rect:
+        serializedVersion: 2
+        x: 10007
+        y: 303
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 718f91632fdf82960800000000000000
+      internalID: 7577585589782444055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_57
+      rect:
+        serializedVersion: 2
+        x: 10383
+        y: 295
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33b62a2b7d564890800000000000000
+      internalID: -7474183748005219526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_58
+      rect:
+        serializedVersion: 2
+        x: 10527
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd97092edc5ca510800000000000000
+      internalID: 1561725280031579608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_59
+      rect:
+        serializedVersion: 2
+        x: 10967
+        y: 303
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde5d046ca8ce4020800000000000000
+      internalID: 2328018700135653084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_60
+      rect:
+        serializedVersion: 2
+        x: 11039
+        y: 303
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1525199bcaff930800000000000000
+      internalID: 4179248892230128064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_61
+      rect:
+        serializedVersion: 2
+        x: 11487
+        y: 303
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354a30368708d5ba0800000000000000
+      internalID: -6098577065844169645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_62
+      rect:
+        serializedVersion: 2
+        x: 11559
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91e0cc58d78314e0800000000000000
+      internalID: -2012115245165649506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_63
+      rect:
+        serializedVersion: 2
+        x: 11999
+        y: 303
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48be7c6fd01d8b4e0800000000000000
+      internalID: -1965591379442144380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_64
+      rect:
+        serializedVersion: 2
+        x: 12071
+        y: 311
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b1c9107f2766f90800000000000000
+      internalID: -6960749768845026443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_65
+      rect:
+        serializedVersion: 2
+        x: 9287
+        y: 255
+        width: 58
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5439a1872ebc350800000000000000
+      internalID: 6038168730890094020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_66
+      rect:
+        serializedVersion: 2
+        x: 10895
+        y: 295
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08ef059dc00da650800000000000000
+      internalID: 6245649141201889290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_67
+      rect:
+        serializedVersion: 2
+        x: 9359
+        y: 255
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899b35c98c3aaffe0800000000000000
+      internalID: -1154430272455591528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_68
+      rect:
+        serializedVersion: 2
+        x: 9471
+        y: 231
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f85e85df0b78d0130800000000000000
+      internalID: 3534630476790162831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_69
+      rect:
+        serializedVersion: 2
+        x: 9799
+        y: 255
+        width: 50
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af23a34239cdf4820800000000000000
+      internalID: 2904782809203356410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_70
+      rect:
+        serializedVersion: 2
+        x: 9871
+        y: 255
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661dd598c0a8232e0800000000000000
+      internalID: -2147502285853437594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_71
+      rect:
+        serializedVersion: 2
+        x: 9911
+        y: 271
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e90b351b18cf2350800000000000000
+      internalID: 5994229647699282402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_72
+      rect:
+        serializedVersion: 2
+        x: 9983
+        y: 255
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4c8aa2a56b5e33f0800000000000000
+      internalID: -919196781858091954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_73
+      rect:
+        serializedVersion: 2
+        x: 10311
+        y: 255
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba1f6fd4d39e1fc40800000000000000
+      internalID: 5544469065780097451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_74
+      rect:
+        serializedVersion: 2
+        x: 10399
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dface6b53bb5ab0800000000000000
+      internalID: -5018220154492093032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_75
+      rect:
+        serializedVersion: 2
+        x: 10431
+        y: 271
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3680e486e9b147700800000000000000
+      internalID: 537084622732658787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_76
+      rect:
+        serializedVersion: 2
+        x: 10503
+        y: 263
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9278b3850d291bee0800000000000000
+      internalID: -1247054198273767639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_77
+      rect:
+        serializedVersion: 2
+        x: 10823
+        y: 255
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e7ac8a0e2d9c08d0800000000000000
+      internalID: -2878753240725542937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_78
+      rect:
+        serializedVersion: 2
+        x: 10911
+        y: 255
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db3e0b29fb6b2620800000000000000
+      internalID: 2750410715353201616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_79
+      rect:
+        serializedVersion: 2
+        x: 10951
+        y: 271
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3915156a166acdc50800000000000000
+      internalID: 6691406084698100115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_80
+      rect:
+        serializedVersion: 2
+        x: 11023
+        y: 263
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9581d0fbc159948d0800000000000000
+      internalID: -2861592137520310183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_81
+      rect:
+        serializedVersion: 2
+        x: 11335
+        y: 263
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd2de27fe68e07270800000000000000
+      internalID: 8246346481006465755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_82
+      rect:
+        serializedVersion: 2
+        x: 11423
+        y: 255
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 918de2f2c50c831d0800000000000000
+      internalID: -3370732818925692903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_83
+      rect:
+        serializedVersion: 2
+        x: 11471
+        y: 271
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c64be91367e6570800000000000000
+      internalID: 8461830705363840030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_84
+      rect:
+        serializedVersion: 2
+        x: 11847
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd93a6506295deb0800000000000000
+      internalID: -4695686093995795012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_85
+      rect:
+        serializedVersion: 2
+        x: 11935
+        y: 263
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76931fd0e0bbf9010800000000000000
+      internalID: 1197881694941690215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_86
+      rect:
+        serializedVersion: 2
+        x: 9327
+        y: 191
+        width: 82
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27918e9dc732ee1b0800000000000000
+      internalID: -5625519865400387214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_87
+      rect:
+        serializedVersion: 2
+        x: 9431
+        y: 191
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc0fd134a2627d0800000000000000
+      internalID: -2943618838686544685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_88
+      rect:
+        serializedVersion: 2
+        x: 9839
+        y: 215
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5076392f8c0e600800000000000000
+      internalID: 495616903191397828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_89
+      rect:
+        serializedVersion: 2
+        x: 9879
+        y: 191
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5800ede1d0fa9c200800000000000000
+      internalID: 200884129281998981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_90
+      rect:
+        serializedVersion: 2
+        x: 9943
+        y: 191
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26efb9f165e5cde10800000000000000
+      internalID: 2223756040004697698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_91
+      rect:
+        serializedVersion: 2
+        x: 10351
+        y: 215
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2cfd2ee0f5fb9d0800000000000000
+      internalID: -2756379929386958082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_92
+      rect:
+        serializedVersion: 2
+        x: 10391
+        y: 191
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0154a7fcfdb985970800000000000000
+      internalID: 8743910062100727056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_93
+      rect:
+        serializedVersion: 2
+        x: 10471
+        y: 191
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1e8cfae851430b0800000000000000
+      internalID: -5749947121666563607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_94
+      rect:
+        serializedVersion: 2
+        x: 10871
+        y: 215
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976977e54b27a1980800000000000000
+      internalID: -8567409222114371975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_95
+      rect:
+        serializedVersion: 2
+        x: 10903
+        y: 191
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11066c3ad95115180800000000000000
+      internalID: -9128491202901549039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_96
+      rect:
+        serializedVersion: 2
+        x: 10983
+        y: 191
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfacdc294dd8b38e0800000000000000
+      internalID: -1712619289148798212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_97
+      rect:
+        serializedVersion: 2
+        x: 11383
+        y: 215
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74522602cd5436f30800000000000000
+      internalID: 4567571258822239559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_98
+      rect:
+        serializedVersion: 2
+        x: 11503
+        y: 191
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e126f26f5392e1200800000000000000
+      internalID: 152604749117481502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_99
+      rect:
+        serializedVersion: 2
+        x: 11895
+        y: 215
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b213830dc36d58d0800000000000000
+      internalID: -2856016856504659279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_100
+      rect:
+        serializedVersion: 2
+        x: 11415
+        y: 191
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d938dfe6d949820800000000000000
+      internalID: 2924135158095519109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_101
+      rect:
+        serializedVersion: 2
+        x: 11935
+        y: 191
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689371aa3d468ada0800000000000000
+      internalID: -5933381648806102650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BOM.BUM (1)_102
+      rect:
+        serializedVersion: 2
+        x: 12023
+        y: 199
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a364ae09d3f392c60800000000000000
+      internalID: 7793830163798181434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BOM.BUM (1)_0: -5126012226122314544
+      BOM.BUM (1)_1: 1000257964033717889
+      BOM.BUM (1)_10: 6304816375698948541
+      BOM.BUM (1)_100: 2924135158095519109
+      BOM.BUM (1)_101: -5933381648806102650
+      BOM.BUM (1)_102: 7793830163798181434
+      BOM.BUM (1)_11: -403762894172733114
+      BOM.BUM (1)_12: 3182936967775476437
+      BOM.BUM (1)_13: -5447313519722853406
+      BOM.BUM (1)_14: -344255113756786283
+      BOM.BUM (1)_15: -8268308649694819395
+      BOM.BUM (1)_16: -1801429845088645440
+      BOM.BUM (1)_17: -4875340763905215808
+      BOM.BUM (1)_18: 7917287673648172334
+      BOM.BUM (1)_19: -7355161571161390731
+      BOM.BUM (1)_2: -4517594365461115721
+      BOM.BUM (1)_20: 7837239389685459632
+      BOM.BUM (1)_21: -2122988489011652476
+      BOM.BUM (1)_22: 6108410708866034541
+      BOM.BUM (1)_23: 3269461906603357538
+      BOM.BUM (1)_24: 8548464175677893304
+      BOM.BUM (1)_25: 3053527104993106613
+      BOM.BUM (1)_26: -5654653950302177610
+      BOM.BUM (1)_27: -5547479482208863496
+      BOM.BUM (1)_28: 1891816852480669663
+      BOM.BUM (1)_29: -8415800716032549760
+      BOM.BUM (1)_3: 2273179943762096936
+      BOM.BUM (1)_30: -9069402225103904217
+      BOM.BUM (1)_31: -1906876782500627010
+      BOM.BUM (1)_32: -3602068882378642139
+      BOM.BUM (1)_33: -4733227404037459242
+      BOM.BUM (1)_34: -6961416988592789076
+      BOM.BUM (1)_35: 2049340549462653900
+      BOM.BUM (1)_36: -4262164659375325261
+      BOM.BUM (1)_37: -7415673947320885216
+      BOM.BUM (1)_38: -6792617459654775362
+      BOM.BUM (1)_39: 2927643332051969665
+      BOM.BUM (1)_4: 7896508977212467672
+      BOM.BUM (1)_40: 8230279197105777977
+      BOM.BUM (1)_41: 7079534512953474868
+      BOM.BUM (1)_42: -3603197618459516417
+      BOM.BUM (1)_43: -1163636649463603805
+      BOM.BUM (1)_44: -1135606600186850882
+      BOM.BUM (1)_45: -4451642530969155851
+      BOM.BUM (1)_46: -7361499288572426317
+      BOM.BUM (1)_47: 6928750106880371484
+      BOM.BUM (1)_48: -7218797807023757129
+      BOM.BUM (1)_49: 1578739059032706810
+      BOM.BUM (1)_5: 7359502469416283537
+      BOM.BUM (1)_50: 7665244780919221314
+      BOM.BUM (1)_51: -4634294788296143557
+      BOM.BUM (1)_52: -7639741512781974325
+      BOM.BUM (1)_53: 3733781608746236706
+      BOM.BUM (1)_54: -3671693523763890622
+      BOM.BUM (1)_55: -5850933295289780677
+      BOM.BUM (1)_56: 7577585589782444055
+      BOM.BUM (1)_57: -7474183748005219526
+      BOM.BUM (1)_58: 1561725280031579608
+      BOM.BUM (1)_59: 2328018700135653084
+      BOM.BUM (1)_6: 252395277841385356
+      BOM.BUM (1)_60: 4179248892230128064
+      BOM.BUM (1)_61: -6098577065844169645
+      BOM.BUM (1)_62: -2012115245165649506
+      BOM.BUM (1)_63: -1965591379442144380
+      BOM.BUM (1)_64: -6960749768845026443
+      BOM.BUM (1)_65: 6038168730890094020
+      BOM.BUM (1)_66: 6245649141201889290
+      BOM.BUM (1)_67: -1154430272455591528
+      BOM.BUM (1)_68: 3534630476790162831
+      BOM.BUM (1)_69: 2904782809203356410
+      BOM.BUM (1)_7: 7425119773799569071
+      BOM.BUM (1)_70: -2147502285853437594
+      BOM.BUM (1)_71: 5994229647699282402
+      BOM.BUM (1)_72: -919196781858091954
+      BOM.BUM (1)_73: 5544469065780097451
+      BOM.BUM (1)_74: -5018220154492093032
+      BOM.BUM (1)_75: 537084622732658787
+      BOM.BUM (1)_76: -1247054198273767639
+      BOM.BUM (1)_77: -2878753240725542937
+      BOM.BUM (1)_78: 2750410715353201616
+      BOM.BUM (1)_79: 6691406084698100115
+      BOM.BUM (1)_8: 8712626177583206974
+      BOM.BUM (1)_80: -2861592137520310183
+      BOM.BUM (1)_81: 8246346481006465755
+      BOM.BUM (1)_82: -3370732818925692903
+      BOM.BUM (1)_83: 8461830705363840030
+      BOM.BUM (1)_84: -4695686093995795012
+      BOM.BUM (1)_85: 1197881694941690215
+      BOM.BUM (1)_86: -5625519865400387214
+      BOM.BUM (1)_87: -2943618838686544685
+      BOM.BUM (1)_88: 495616903191397828
+      BOM.BUM (1)_89: 200884129281998981
+      BOM.BUM (1)_9: 8939136386109125595
+      BOM.BUM (1)_90: 2223756040004697698
+      BOM.BUM (1)_91: -2756379929386958082
+      BOM.BUM (1)_92: 8743910062100727056
+      BOM.BUM (1)_93: -5749947121666563607
+      BOM.BUM (1)_94: -8567409222114371975
+      BOM.BUM (1)_95: -9128491202901549039
+      BOM.BUM (1)_96: -1712619289148798212
+      BOM.BUM (1)_97: 4567571258822239559
+      BOM.BUM (1)_98: 152604749117481502
+      BOM.BUM (1)_99: -2856016856504659279
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
