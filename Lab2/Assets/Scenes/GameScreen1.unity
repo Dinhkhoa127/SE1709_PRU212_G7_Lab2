@@ -185,7 +185,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_EdgeRadius
@@ -5196,7 +5196,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5340,7 +5340,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138206503178247944, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8604635954836665072, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_Name
@@ -5485,7 +5485,7 @@ BoxCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -5784,7 +5784,7 @@ EdgeCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -11314,7 +11314,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_EdgeRadius
@@ -14283,7 +14283,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_EdgeRadius
@@ -14437,7 +14437,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25188,7 +25188,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138206503178247944, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8604635954836665072, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_Name
@@ -25349,7 +25349,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138206503178247944, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8604635954836665072, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_Name
@@ -26026,7 +26026,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_EdgeRadius
@@ -34347,7 +34347,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138206503178247944, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8604635954836665072, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_Name
@@ -35005,7 +35005,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -46491,7 +46491,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -46572,7 +46572,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_EdgeRadius
@@ -49135,7 +49135,7 @@ EdgeCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 0
+  m_IsTrigger: 1
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -49763,7 +49763,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_Points.Array.size
@@ -51381,7 +51381,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52127,7 +52127,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_EdgeRadius
@@ -53894,7 +53894,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4138206503178247944, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8604635954836665072, guid: 507e3f5e260807f49baf765d28b94831, type: 3}
       propertyPath: m_Name
@@ -55678,7 +55678,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 9136043477715390418, guid: e9c2203c49de0334ba3445d45318588d, type: 3}
       propertyPath: m_Points.Array.size
